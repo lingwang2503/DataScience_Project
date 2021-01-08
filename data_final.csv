@@ -1,0 +1,430 @@
+City,AQI,PM2.5,PM10,O3,NO2,SO2,CO
+Bishkek,353,356.8,2.2,,,,
+Kolkata,218,163.9,286.3,17.7,66.1,26.2,1384.0
+Kabul,196,283.0,,,,,
+Dhaka,196,178.8,,,,,
+Kathmandu,193,116.3,217.7,17.5,,,
+Mumbai,190,118.0,233.7,16.3,54.7,14.4,1672.0
+Nur-Sultan,184,77.0,121.8,,5.5,15.5,484.8
+Karachi,183,127.6,,,,,
+Lahore,177,83.0,,,,,
+Delhi,175,103.8,140.3,17.3,24.0,9.1,906.7
+Shenzhen,161,79.6,115.4,39.9,27.3,9.0,950.0
+Krakow,159,71.9,71.8,,18.1,5.3,
+Hanoi,157,105.7,153.1,0.0,24.4,0.8,757.3
+Tehran,155,64.6,75.1,13.9,271.9,45.4,3555.2
+Hong Kong,153,60.1,84.0,41.4,48.3,6.6,241.9
+Yangon,143,57.6,,3.0,,,
+Chongqing,141,51.6,67.5,29.2,35.7,6.1,666.7
+Riyadh,139,35.7,,,,,
+Tashkent,112,40.2,,4.0,,,
+Chengdu,111,36.5,44.5,38.7,28.1,4.7,544.4
+Guangzhou,110,58.1,79.3,36.8,26.1,8.3,916.7
+Warsaw,102,26.4,25.9,4.5,12.7,,0.8
+Zagreb,100,30.0,41.5,23.2,17.3,3.1,565.0
+Milano,99,35.3,,28.3,25.1,2.6,0.8
+Moscow,99,15.4,14.8,21.0,39.6,1.6,203.3
+Tel Aviv-Yafo,98,30.9,64.5,9.0,57.4,2.8,419.8
+Jerusalem,96,34.8,103.3,2.0,17.0,,
+Chiang Mai,91,34.4,54.4,48.0,11.1,4.2,
+London,90,17.0,14.5,19.6,22.6,0.7,900.0
+Kyiv,85,26.1,,,,,
+Paris,83,23.8,23.9,15.5,21.8,0.0,0.0
+Kuwait City,78,31.1,,,,,
+Johannesburg,78,16.7,23.7,7.0,22.6,5.2,
+Ulaanbaatar,77,47.4,122.8,10.9,12.3,61.0,8.7
+Sarajevo,76,25.3,22.0,38.2,13.7,21.0,
+Shanghai,70,14.2,93.8,42.8,25.3,6.9,466.7
+Dubai,75,23.2,,,,,
+Bogota,75,20.9,33.7,8.8,,,
+Ho Chi Minh City,75,31.4,,,,,
+Wuhan,72,19.2,96.8,47.1,20.8,6.7,450.0
+Kaohsiung,70,21.0,30.5,21.0,35.1,5.4,584.9
+Bangkok,70,23.3,57.4,21.0,4.4,,853.0
+Bern,68,20.0,36.8,5.3,,,
+Mexico City,68,14.7,31.3,37.6,18.7,4.4,585.1
+Wroclaw,67,16.7,3.8,26.2,10.2,0.0,0.0
+Los Angeles,66,12.2,41.0,2.0,31.8,0.0,
+Lyon,64,24.6,27.0,14.3,20.9,,
+San Francisco,62,12.5,,12.4,33.6,,
+Kyoto,14,8.9,11.4,,31.0,,549.6
+Hangzhou,57,18.3,62.0,34.8,27.5,7.1,531.3
+Detroit,55,15.8,,,22.9,1.3,687.0
+Brussels,54,12.8,15.1,2.6,35.2,1.0,0.0
+Sao Paulo,53,9.4,16.8,23.5,25.4,1.3,248.1
+Phnom Penh,52,11.5,,,,,
+Sofia,52,18.0,22.8,28.8,17.8,5.1,0.0
+Portland,52,8.4,,2.8,4.1,0.8,
+Krasnoyarsk,51,14.7,,,124.2,68.6,126.7
+Seattle,48,6.4,,,,,
+Beijing,48,11.7,35.9,38.4,19.5,2.8,508.3
+Tokyo,45,10.4,11.4,,46.3,2.9,408.9
+Budapest,38,12.0,14.4,14.1,23.7,4.6,615.9
+Munich,43,10.4,10.9,17.9,19.6,,0.0
+Shenyang,41,11.7,34.0,48.1,11.8,12.3,422.2
+Kobe,41,10.4,11.8,,40.2,,
+Lima,38,10.6,14.2,,,,
+Vienna,39,9.3,10.4,14.4,17.4,1.0,312.5
+Seoul,37,11.5,30.9,45.1,21.2,7.9,450.8
+Santiago,36,9.4,42.5,27.0,24.0,2.6,309.2
+Denver,35,5.6,16.4,46.0,59.4,0.7,318.7
+Salt Lake City,34,7.7,,28.0,64.5,0.0,57.3
+Osaka,33,11.7,11.2,,24.8,,
+Taipei,33,8.3,8.2,47.8,36.1,5.2,606.9
+Prague,33,7.7,11.4,20.6,20.3,,0.0
+Incheon,33,9.0,26.4,49.6,15.7,8.0,458.0
+Belgrade,30,8.1,7.8,55.3,12.6,14.8,458.6
+Bratislava,33,8.4,9.9,9.8,17.7,4.0,
+Busan,27,9.6,27.2,,13.0,7.9,343.5
+Nagoya,27,8.2,9.3,,31.2,,
+Singapore,25,6.0,15.7,5.2,17.1,3.0,0.0
+Berlin,25,7.1,9.5,16.2,10.6,,0.0
+Melbourne,25,4.6,19.9,17.8,3.6,2.8,0.0
+Kuala Lumpur,40,10.2,,,,,
+Kuching,22,5.7,,,,,
+Jakarta,22,9.7,28.5,,,,
+Toronto,8,2.0,,44.0,4.7,0.5,
+Madrid,18,3.3,4.6,48.8,10.3,2.8,0.0
+Rotterdam,16,2.2,2.7,,22.2,,
+Vancouver BC,15,2.6,3.7,39.0,11.7,0.9,212.9
+Helsinki,17,5.4,5.2,34.6,10.7,1.9,
+Amsterdam,14,4.4,5.8,22.2,18.3,0.0,327.5
+New York City,11,5.3,,54.0,,1.1,238.0
+Pristina,10,3.1,,,,,
+Oslo,7,2.0,2.4,,5.2,,0.0
+Skopje,4,47.7,60.6,6.6,20.2,1.1,
+Sydney,2,0.0,4.3,26.2,2.0,0.0,0.0
+Canberra,4,1.3,4.4,27.2,1.9,,42.3
+"Tsubaki, Chiba",1,43.0,,,3.8,,
+"Kohokudai, Chiba",76,24.0,,,13.2,,
+"Shimoiino, Chiba",99,35.0,,,3.8,2.6,
+"Kukichuo, Saitama",93,32.0,15.0,,52.6,,
+"Nagayama 1 Jo, Hokkaido",84,28.0,29.0,,73.3,,
+"Nakamuraminami, Ibaraki",84,28.0,21.0,,56.4,,
+"Yachimata, Chiba",84,28.0,,,3.8,,
+"Fujimi, Yamanashi",82,27.0,38.0,,39.5,2.6,
+"Ishikawa, Ibaraki",82,27.0,11.0,,22.6,2.6,
+"Kofu, Yamanashi",82,27.0,14.5,,39.5,,572.5
+"Ili, Xinjiang",378,328.0,341.0,11.0,85.5,46.0,7900.0
+"Wujiaqu, Xinjiang",213,163.0,220.0,6.0,1.0,5.5,
+"Shihezi, Xinjiang",195,141.5,149.0,11.0,73.0,6.0,2400.0
+"Yunfu, Guangdong",182,116.0,112.0,47.5,24.5,10.0,1050.0
+"Zhaoqing, Guangdong",182,115.0,131.5,40.0,27.0,8.5,1100.0
+"Aksu, Xinjiang",180,68.0,313.5,10.5,45.5,10.0,2050.0
+"Yulin, Guangxi",178,108.0,120.0,51.0,24.5,5.0,1150.0
+"Beihai, Guangxi",176,103.0,91.5,42.0,19.0,8.0,1000.0
+"Changzhou Qu, Guangxi",176,103.0,92.0,25.0,29.0,5.0,1400.0
+"Zhanjiang, Guangdong",176,103.5,117.0,50.0,30.0,23.0,1050.0
+"Otterburn Park, Quebec",97,33.9,,,,,
+"Dawson City, Yukon",98,34.4,,,,,
+"Revelstoke, British Columbia",81,26.3,,,,,
+"North Cowichan, British Columbia",80,26.2,,,,,
+"Golden, British Columbia",94,32.6,14.6,,,,
+"Saint-Bruno-de-Montarville, Quebec",62,17.6,,,,,
+"Whitehorse, Yukon",78,25.2,,,,,
+"Winnipeg, Manitoba",68,20.2,,4.8,6.5,,
+"Campbell River, British Columbia",73,22.4,,,,,
+"Norman Wells, Northwest Territories",69,11.3,91.4,,2.4,14.4,
+"Ha Tinh, Tinh Ha Tinh",184,119.6,,,,,
+"Phuc Yen, Tinh Vinh Phuc",183,117.8,193.5,,,,
+"Luong Son, Tinh Hoa Binh",180,111.3,189.5,,,,
+"Thua, Tinh Bac Ninh",175,102.5,116.5,,19.6,1.5,0.0
+"Hanoi, Hanoi",182,115.1,136.6,0.0,22.7,4.2,1190.7
+"Bac Ninh, Tinh Bac Ninh",170,92.5,111.0,,,45.5,
+"Cau Giay, Hanoi",173,98.3,136.3,,10.1,,0.8
+"Thanh Pho Thai Nguyen, Tinh Thai Nguyen",176,103.8,,,,3.7,1.1
+"Hai BaTrung, Hanoi",183,116.9,131.8,,14.4,,694.6
+"Nhu Quynh, Tinh Hung Yen",170,91.5,118.5,0.0,34.4,8.6,0.0
+"Nantwich, England",121,43.7,,,,,
+"Warrington, England",114,41.0,50.2,,45.1,,
+"Wigan, England",113,40.5,46.2,1.8,13.8,,
+"Haydock, England",112,40.0,46.4,,,,
+"Leigh, England",107,38.0,45.4,,49.0,,
+"Ringwood, England",106,37.6,,,,,
+"Salford, England",102,35.9,,,,,
+"Manchester, England",96,33.8,36.6,1.6,74.4,4.0,
+"Cambridge, England",92,31.7,7.1,,13.3,,
+"Weymouth, England",92,31.9,,,,,
+"Talence, Nouvelle-Aquitaine",154,61.0,63.0,2.0,25.0,,
+"Nantes, Pays de la Loire",134,49.0,54.0,1.5,19.0,2.0,
+"Tarbes, Occitanie",133,48.7,50.8,2.2,25.8,,
+"Toulouse, Occitanie",129,47.0,55.5,4.9,30.2,,
+"Lorient, Brittany",125,45.1,56.8,2.0,25.6,,
+"Bassens, Nouvelle-Aquitaine",124,45.0,48.0,3.0,21.0,1.0,
+"Perigueux, Nouvelle-Aquitaine",124,45.0,47.0,2.0,11.0,,
+"Biars-sur-Cere, Occitanie",122,44.0,57.8,0.0,23.3,,
+"Bouguenais, Pays de la Loire",122,44.0,65.0,,19.0,1.0,
+"Saint-Nazaire, Pays de la Loire",122,44.0,45.0,4.0,16.0,1.0,
+"Oberaudorf, Bavaria",81,26.5,28.4,,24.6,,
+"Meiderich, Nordrhein-Westfalen",78,25.1,,,,,
+"Schongau, Bavaria",77,24.5,,,,,
+"Ettlingen, Baden-Wuerttemberg",75,23.6,,,,,
+"Eppelheim, Baden-Wuerttemberg",74,23.2,,,,,
+"Neuenburg, Baden-Wuerttemberg",74,23.0,24.0,15.0,,,
+"Weil am Rhein, Baden-Wuerttemberg",74,23.0,24.0,3.0,,,
+"Mainz, Rheinland-Pfalz",70,21.3,16.0,35.0,11.0,1.0,240.0
+"Rottach-Egern, Bavaria",70,21.2,,,,,
+"Dresden, Saxony",68,20.0,9.5,30.0,9.0,0.0,
+"Sam Phran, Nakhon Pathom",184,120.2,,,,,
+"Nakhon Pathom, Nakhon Pathom",156,65.2,,,,,
+"Samut Sakhon, Samut Sakhon",122,44.2,180.0,104.0,52.6,48.5,1293.9
+"Bang Khon Thi, Samut Songkhram",167,85.8,,,,,
+"Phra Samut Chedi, Samut Prakan",164,80.0,84.0,58.0,60.2,7.9,366.4
+"Nong Khaem, Bangkok",162,77.0,99.0,,,,
+"Nakhon Chai Si, Nakhon Pathom",161,75.0,114.0,44.0,37.6,10.5,893.1
+"Samut Songkhram, Samut Songkhram",164,81.2,,,,,
+"San Kamphaeng, Chiang Mai",118,42.6,,,,,
+"Chiang Rai, Chiang Rai",153,59.1,28.5,22.0,3.8,,681.3
+"Ecublens, Vaud",120,43.2,,,,,
+"Dubendorf, Zurich",103,36.3,18.0,26.0,28.0,1.0,
+"Liestal, Basel-Landschaft",83,27.5,,,,,
+"Rhaezuens, Grisons",91,31.0,32.1,6.6,,,
+"Rotkreuz, Zug",83,27.5,,,,,
+"Chur, Grisons",77,24.5,31.5,19.2,34.3,,
+"Dietikon, Zurich",77,24.5,,,,,
+"Richterswil / Dorfkern, Zurich",74,23.3,,,,,
+"Binningen, Basel-Landschaft",74,23.0,24.0,8.0,,,
+"Harkingen, Solothurn",70,21.0,42.0,6.0,,,
+"Meligalas, Peloponnese",152,56.8,,,,,
+"Messini, Peloponnese",148,54.9,,,,,
+"Palaio Faliro, Attica",130,47.3,,,,,
+"Vrachnaiika, West Greece",125,45.2,,,,,
+"Agios Ioannis Rentis, Attica",114,40.7,,,,,
+"Peristeri, Attica",98,34.7,,,,,
+"Athens, Attica",87,29.2,,,,,
+"Piraeus, Attica",87,29.3,,,,,
+"Agia Varvara, Attica",76,24.3,,,,,
+"Nikaia, Attica",76,23.8,,,,,
+"Sao Bernardo do Campo, Sao Paulo",61,17.0,,22.0,,,
+"Santa Gertrudes, Sao Paulo",57,10.0,68.0,,,,
+"Sao Caetano do Sul, Sao Paulo",53,13.0,19.0,42.0,35.0,1.0,
+"Guarulhos, Sao Paulo",45,11.0,13.0,41.0,23.0,1.0,572.5
+"Cubatao, Sao Paulo",44,,48.0,,43.0,3.0,
+"Campinas, Sao Paulo",41,10.0,11.0,,19.0,,
+"Maua, Sao Paulo",37,9.0,11.0,28.0,36.0,2.0,
+"Sao Jose do Rio Preto, Sao Paulo",37,9.0,17.0,36.0,31.0,,
+"Pianco, Paraiba",36,8.8,,,,,
+"Boa Vista, Roraima",31,7.5,,,,,
+"Solnechnyy, Krasnoyarsk Krai",33,150.0,,,160.0,60.0,140.0
+"Zyryanka, Chukot",72,22.0,,,,,
+"Balashikha, Moscow Oblast",92,31.8,,,,,
+"Krasnoyarsk, Krasnoyarsk Krai",62,17.4,,,160.0,50.0,160.0
+"Magnitogorsk, Chelyabinsk",83,27.2,,,,,
+"Serpukhov, Moscow Oblast",65,18.9,,,,,
+"Krasnodar, Krasnodarskiy",57,15.0,,,,,
+"Moscow, Moscow",97,34.1,15.0,24.3,34.7,1.6,200.0
+"Berezovka, Krasnoyarsk Krai",44,130.0,,,270.0,20.0,80.0
+"Kamensk-Shakhtinskiy, Rostov",42,10.2,,,,,
+"Bulacan, Central Luzon",51,12.3,,,,,
+"Puerto Princesa, Mimaropa",65,19.0,35.0,,,,
+"Makati, National Capital Region",78,24.9,,,,,
+"Davao City, Davao",59,16.0,26.5,,13.0,,
+"Pasig City, National Capital Region",51,12.3,,,,,
+"Butuan, Caraga",50,12.0,18.0,,,,
+"Balanga, Central Luzon",66,19.2,,,,,
+"Quezon City, National Capital Region",30,7.3,,,,,
+"San Juan, National Capital Region",45,10.8,,,,,
+"Mandaluyong, National Capital Region",20,4.8,,,,,
+"Mandalay, Mandalay",155,62.9,,,,,
+"Yangon, Yangon",154,62.1,,4.0,,,
+"Syriam, Yangon",109,38.8,,,,,
+"Vientiane, Vientiane",70,21.0,,,,,
+"Tuolumne City, California",156,64.8,,,,,
+"La Jolla Shores, California",148,54.7,,,,,
+"Peaceful Valley, Washington",99,35.1,,,,,
+"Fort Jones, California",151,55.5,,,,,
+"Hanford, California",134,49.0,75.1,2.0,39.5,,
+"Chippewa Falls, Wisconsin",122,44.2,,,,,
+"Visalia, California",110,39.0,,38.0,,,
+"Las Vegas, New Mexico",119,42.8,,,,,
+"Sparta, Wisconsin",142,52.3,,,,,
+"Reedley, California",120,43.2,,,,,
+"Plovdiv, Plovdiv",167,86.0,95.8,4.1,,6.5,0.0
+"Vidin, Vidin",110,39.0,46.4,,,,
+"Nesebar, Burgas",84,28.0,38.8,,11.5,2.2,
+"Ruse, Ruse",81,26.4,27.6,3.6,,,0.0
+"Sliven, Sliven",72,22.0,24.2,,,,
+"Devnya, Varna",68,20.0,27.2,0.0,1.3,,0.0
+"Kardzhali, Kardzhali",68,20.0,26.2,,,,
+"Varna, Varna",66,19.4,20.3,5.8,,,0.0
+"Stara Zagora, Stara Zagora",61,17.0,21.1,,18.0,6.5,0.0
+"Sofia, Sofia",57,14.9,27.4,27.5,22.9,5.5,0.0
+"Petaling Jaya, Selangor",100,35.4,,,,,
+"Klang, Selangor",78,25.0,,,,,
+"Kuala Langat, Selangor",77,24.3,,,,,
+"Banting, Selangor",73,22.5,,,,,
+"Nilai, Negeri Sembilan",70,21.2,,,,,
+"Seri Manjung, Perak",65,18.6,,,,,
+"Shah Alam, Selangor",65,18.6,,,,,
+"Kuala Lumpur, Kuala Lumpur",42,10.2,,,,,
+"Prai, Penang",59,16.0,,,,,
+"Putrajaya, Putrajaya",59,16.0,,,,,
+"San Juan de Lurigancho, Lima",5,20.6,,4.3,,9.9,1.0
+"Trujillo, La Libertad",56,14.3,,,,,
+"Lima, Lima",43,10.5,14.1,,,,
+"HUACHIPA, Lima",28,,,,,50.4,46.0
+"El Tambo, Junin",21,5.1,,,,,
+"Cusco, Cusco",17,4.1,,,,,
+"Chupaca, Junin",12,3.0,,,,,
+"Santa Anita, Lima",10,,,,3.1,17.7,
+"Puerto Maldonado, Madre de Dios",2,0.5,,,,,
+"Valjevo, Central Serbia",153,59.7,32.0,,40.8,8.3,
+"Novi Pazar, Central serb",141,51.7,52.7,19.3,15.9,11.1,
+"Novi Sad, Autonomna Pokrajina Vojvodina",67,19.7,21.1,,31.9,10.9,
+"Pancevo, Autonomna Pokrajina Vojvodina",58,15.4,17.8,39.7,4.2,13.4,
+"Kragujevac, Central Serbia",46,11.2,,,7.7,,
+"KOSJERIC, Central Serbia",32,7.8,8.0,4.6,5.3,4.5,
+"Lipe, Central Serbia",31,7.5,,,,,
+"Belgrade, Central Serbia",25,6.0,6.2,63.0,8.1,16.2,435.0
+"Vrsac, Autonomna Pokrajina Vojvodina",25,,,61.2,1.6,6.5,
+"Gornji Milanovac, Central serb",21,5.2,,,,,
+"Novaky, Nitra",84,28.0,10.0,,,2.0,
+"Jelsava, Banska Bystrica",28,27.0,31.0,6.0,,,
+"Banska Bystrica, Banska Bystrica",62,17.5,14.0,3.0,19.0,,
+"Hnusta, Banska Bystrica",72,22.0,27.0,,,,
+"Martin, Zilina",84,28.0,21.0,,,,
+"Vranov nad Toplou, Presov",63,18.0,23.0,,,7.0,
+"Moldava nad Bodvou, Kosice",46,11.2,12.8,,,,
+"Handlova, Trencin",70,21.0,15.0,,,,
+"Strazske, Kosice",65,19.0,20.0,,,,
+"Zvolen-Motova, Banska Bystrica",25,6.0,8.0,,,,
+"Puebla de Alfinden, Aragon",102,35.7,,,,,
+"Ourense, Galicia",59,16.0,22.0,22.0,42.0,2.7,0.0
+"Ponferrada, Castille and Leon",68,20.0,24.0,5.0,25.0,6.0,
+"Pontecesures, Galicia",76,24.2,16.3,3.7,,1.0,
+"Sants, Catalunya",77,24.5,,,,,
+"Palma, Balearic Islands",21,5.0,11.0,42.0,14.0,2.3,0.0
+"Vitoria-Gasteiz, Basque Country",74,23.0,19.5,,32.5,4.0,0.0
+"Altsasu, Navarre",61,17.0,20.0,3.0,34.0,5.0,
+"Ciutat Meridiana, Catalunya",68,20.0,28.0,,,,
+"Guadalix de la Sierra, Madrid",61,17.0,24.0,,41.0,,
+"Fiq, Quneitra",117,41.9,,,,,
+"Arwad, Tartus",75,23.4,39.5,,7.7,3.4,
+"Dhaka, Dhaka",218,167.2,,,,,
+"Manikganj, Dhaka",196,142.8,,,,,
+"Savar, Dhaka",176,103.9,,,,,
+"Narayanganj, Dhaka",37,9.0,,,,,
+"Faisalabad, Punjab",382,332.2,,,,,
+"Bahawalpur, Punjab",191,132.6,,,,,
+"Raiwind, Punjab",176,103.2,,,,,
+"Lahore, Punjab",174,100.9,,,,,
+"Karachi, Sindh",170,93.0,,,,,
+"Sahiwal, Punjab",173,98.0,,,,,
+"Islamabad, Islamabad",154,61.2,,,,,
+"Peshawar, Khyber Pakhtunkhwa",156,65.0,,,,,
+"Rawalpindi, Punjab",155,63.7,,,,,
+"Muridke, Punjab",118,42.6,,,,,
+"Darhan, Darhan Uul",88,29.6,,,,,
+"Ulaanbaatar, Ulaanbaatar",62,13.2,78.0,7.0,7.5,38.0,8.5
+"Ulaan-Uul, East Gobi Aymag",17,4.0,5.0,,4.0,,
+"Urt, OEmnoegovi",29,7.0,28.0,,8.0,4.0,
+"Hongor, Suhbaatar",12,2.0,13.0,,3.0,5.0,
+"Tsetserleg, Arhangay",18,4.2,,,,,
+"Sumber, East Aimak",13,1.0,14.0,,2.0,9.5,
+"Chonogol, Suhbaatar",12,3.0,4.0,,3.0,,41.0
+"Kabul, Kabul",113,40.2,,,,,
+"Haldia, West Bengal",270,220.3,207.0,,39.8,10.2,750.0
+"Howrah, West Bengal",253,203.1,273.0,61.2,36.8,79.2,2000.0
+"Asansol, West Bengal",236,186.3,,5.9,,14.6,
+"Durgapur, West Bengal",230,179.4,,,,22.5,
+"Murwara, Madhya Pradesh",220,169.2,,3.0,,11.2,
+"Muzaffarpur, Bihar",220,169.2,,3.0,2.4,5.6,
+"Pitampura, Delhi",213,162.7,210.9,19.0,27.2,6.4,1490.0
+"Airoli, Maharashtra",209,158.8,252.0,,,19.2,
+"Chakapara, West Bengal",207,156.2,347.0,22.0,69.4,141.4,1210.0
+"Guwahati, Assam",207,156.2,,,,,
+"Pontianak, West Kalimantan",151,55.9,,,,,
+"Surabaya, East Java",70,21.3,,,,,
+"Bangkinang, Riau",67,19.8,,,,,
+"Semarang, Central Java",67,19.9,,,,,
+"Duri, Riau",54,13.5,,,,,
+"Balaipungut, Riau",53,13.1,,,,,
+"Pekanbaru, Riau",52,12.4,,,,,
+"Dumai, Riau",46,11.1,,,,,
+"Jakarta, Jakarta",34,8.2,,,,,
+"Sampit, Central Kalimantan",4,1.0,0.0,,,,
+"Manama, Capital Governorate",129,47.0,,,,,
+"Kathmandu, Central Region",172,97.0,237.5,125.0,,,
+"Kirtipur, Central Region",169,89.8,105.8,,,,
+"Patan, Central Region",169,90.8,175.4,,,,
+"Bhaktapur, Central Region",161,74.6,,,,,
+"Bharatpur, Central Region",155,63.1,70.2,,,,
+"Pokhara, Western Region",119,42.9,,,,,
+"Tulsipur, Mid Western",105,37.2,98.4,,,,
+"Dhankuta, Eastern Region",97,34.0,79.1,,,,
+"Nepalgunj, Mid Western",93,32.0,35.2,,,,
+"Dhulikhel, Central Region",66,19.4,20.0,,,,
+"Tashkent, Toshkent Shahri",102,36.0,,4.0,,,
+"Baghdad, Baghdad",131,47.8,,,,,
+"Nassau, New Providence",84,27.9,,,,,
+"Governor's Harbour, Central Eleuthera",49,11.9,,,,,
+"Charlotte Amalie, Saint Thomas Island",5,1.3,,,,,
+"Cruz Bay, Saint John Island",5,1.2,,,,,
+"Isafjoerdur, Westfjords",1,0.0,,,,,
+"Korsholm, Ostrobothnia",43,10.4,16.3,,,,
+"Pietarsaari, Ostrobothnia",37,9.0,6.9,,6.8,,
+"Pertteli, Finland Proper",34,8.1,,,,,
+"Seinajoki, Southern Ostrobothnia",33,8.0,9.4,,24.7,,
+"Imatra, South Karelia",29,7.0,4.6,,3.3,0.8,
+"Naantali, Finland Proper",29,7.0,9.5,,21.9,0.0,
+"Raisio, Finland Proper",29,7.1,8.8,,18.2,0.0,
+"Turku, Finland Proper",29,7.0,9.3,,21.8,,
+"Lohja, Uusimaa",27,6.5,,,,,
+"Ulvila, Satakunta",27,5.7,29.8,,7.6,2.5,
+"Sinimaee, Ida-Virumaa",37,9.0,12.0,,,0.0,
+"Tallinn, Harjumaa",37,9.0,14.8,14.8,15.7,0.7,320.0
+"Sillamaee, Ida-Virumaa",33,8.0,8.5,,,,
+"Voore, Jogevamaa",33,8.1,,,0.9,0.0,
+"Tartu, Tartumaa",31,7.5,8.8,,6.7,0.0,230.0
+"Narva, Ida-Virumaa",26,6.3,8.9,5.0,,1.0,
+"Kohtla-Jaerve, Ida-Virumaa",6,6.3,6.4,,4.7,0.5,
+"Solna, Stockholm",28,6.8,,,,,
+"Linköping, Östergötlands län",25,6.1,,,,,
+"Enkoeping, Uppsala län",23,5.5,,,,,
+"Kungsbacka, Hallands län",22,5.4,,,,,
+"Lilla Essingen, Stockholm",22,5.4,,,,,
+"Onsala, Hallands län",21,5.2,5.2,,,,
+"Sodertalje, Stockholm",21,5.0,4.6,,7.7,,
+"Uppsala, Uppsala län",21,5.0,7.3,,15.9,,
+"Kungsholmen, Stockholm",19,4.6,6.7,,9.6,,
+"Saro, Hallands län",18,4.3,,,,,
+"Stavanger, Rogaland",66,19.5,21.7,,85.6,,
+"Kristiansand, Vest-Agder",52,12.5,23.8,,11.1,,
+"Skoppum, Vestfold",52,12.4,,,,,
+"Bergen, Hordaland",45,11.0,27.6,4.6,64.3,,
+"Bodo, Nordland",45,5.9,50.0,,,,
+"Alesund, More og Romsdal",43,10.5,15.1,,2.0,,
+"Mo i Rana, Nordland",39,9.5,13.0,,,,
+"Narvik, Nordland",31,4.7,34.2,,,,
+"Tonsberg, Vestfold",30,5.0,33.5,,17.7,,
+"Baerum, Akershus",29,7.0,9.9,,15.4,,
+"Waimate, Canterbury",45,10.9,18.1,,,,
+"Kaiapoi, Canterbury",36,8.7,13.8,,,,
+"Gisborne, Gisborne",35,8.6,24.5,,,,
+"Hastings, Hawke's Bay",27,6.5,7.9,,,,
+"Rangiora, Canterbury",23,5.5,8.7,,,,
+"Richmond, Tasman",23,,25.5,,,,
+"Geraldine, Canterbury",21,5.0,9.5,,,,
+"Wainuiomata, Wellington",20,4.8,6.6,,,,
+"Timaru, Canterbury",19,4.7,15.8,,,2.7,500.0
+"Wellington City, Wellington",17,4.1,7.3,,3.2,,
+"Houston, British Columbia",151,56.3,15.4,,,,
+"Dawson City, Yukon",120,43.3,,,,,
+"Salmon Arm, British Columbia",113,40.3,,,,,
+"Duncan, British Columbia",107,38.0,,8.0,7.6,,1000.0
+"Winnipeg, Manitoba",95,33.3,,4.8,9.4,,
+"Williams Lake Columneetza School, British Columbia",94,32.7,21.9,4.4,,,
+"Cranbrook, British Columbia",93,32.3,,17.8,12.4,,
+"High Level, Alberta",90,30.6,,,,,
+"North Cowichan, British Columbia",87,29.4,,,,,
+"Brandon, Manitoba",83,27.3,,,0.0,,
+"Wollongong, New South Wales",83,27.3,118.1,38.0,11.3,2.6,55.4
+"Narrabri, New South Wales",59,1.1,72.0,,,,
+"Melton, Victoria",49,11.8,,27.0,,,
+"Albany, Western Australia",47,,51.7,,,,
+"Geraldton, Western Australia",47,4.8,51.7,,,,
+"Swan, Western Australia",44,10.7,40.7,,5.6,,
+"Wynnum West, Queensland",44,10.6,14.2,,,2.6,
+"Moe, Victoria",40,9.8,,,,,
+"Wyong, New South Wales",40,1.6,44.4,,3.8,2.6,10.4
+"Busselton, Western Australia",32,5.6,35.2,,,,
