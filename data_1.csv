@@ -1,207 +1,207 @@
-,City,AQI,PM2.5,PM10,O3,NO2,SO2,CO
-0,"Tsubaki, Chiba",1,43,NULL,NULL,3.8,NULL,NULL
-1,"Kohokudai, Chiba",76,24,NULL,NULL,13.2,NULL,NULL
-2,"Shimoiino, Chiba",99,35,NULL,NULL,3.8,2.6,NULL
-3,"Kukichuo, Saitama",93,32,15,NULL,52.6,NULL,NULL
-4,"Nagayama 1 Jo, Hokkaido",84,28,29,NULL,73.3,NULL,NULL
-5,"Nakamuraminami, Ibaraki",84,28,21,NULL,56.4,NULL,NULL
-6,"Yachimata, Chiba",84,28,NULL,NULL,3.8,NULL,NULL
-7,"Fujimi, Yamanashi",82,27,38,NULL,39.5,2.6,NULL
-8,"Ishikawa, Ibaraki",82,27,11,NULL,22.6,2.6,NULL
-9,"Kofu, Yamanashi",82,27,14.5,NULL,39.5,NULL,572.5
-10,"Ili, Xinjiang",378,328,341,11,85.5,46,7900
-11,"Wujiaqu, Xinjiang",213,163,220,6,1,5.5,NULL
-12,"Shihezi, Xinjiang",195,141.5,149,11,73,6,2400
-13,"Yunfu, Guangdong",182,116,112,47.5,24.5,10,1050
-14,"Zhaoqing, Guangdong",182,115,131.5,40,27,8.5,1100
-15,"Aksu, Xinjiang",180,68,313.5,10.5,45.5,10,2050
-16,"Yulin, Guangxi",178,108,120,51,24.5,5,1150
-17,"Beihai, Guangxi",176,103,91.5,42,19,8,1000
-18,"Changzhou Qu, Guangxi",176,103,92,25,29,5,1400
-19,"Zhanjiang, Guangdong",176,103.5,117,50,30,23,1050
-20,"Otterburn Park, Quebec",97,33.9,NULL,NULL,NULL,NULL,NULL
-21,"Dawson City, Yukon",98,34.4,NULL,NULL,NULL,NULL,NULL
-22,"Revelstoke, British Columbia",81,26.3,NULL,NULL,NULL,NULL,NULL
-23,"North Cowichan, British Columbia",80,26.2,NULL,NULL,NULL,NULL,NULL
-24,"Golden, British Columbia",94,32.6,14.6,NULL,NULL,NULL,NULL
-25,"Saint-Bruno-de-Montarville, Quebec",62,17.6,NULL,NULL,NULL,NULL,NULL
-26,"Whitehorse, Yukon",78,25.2,NULL,NULL,NULL,NULL,NULL
-27,"Winnipeg, Manitoba",68,20.2,NULL,4.8,6.5,NULL,NULL
-28,"Campbell River, British Columbia",73,22.4,NULL,NULL,NULL,NULL,NULL
-29,"Norman Wells, Northwest Territories",69,11.3,91.4,NULL,2.4,14.4,NULL
-30,"Ha Tinh, Tinh Ha Tinh",184,119.6,NULL,NULL,NULL,NULL,NULL
-31,"Phuc Yen, Tinh Vinh Phuc",183,117.8,193.5,NULL,NULL,NULL,NULL
-32,"Luong Son, Tinh Hoa Binh",180,111.3,189.5,NULL,NULL,NULL,NULL
-33,"Thua, Tinh Bac Ninh",175,102.5,116.5,NULL,19.6,1.5,0
-34,"Hanoi, Hanoi",182,115.1,136.6,0,22.7,4.2,1190.7
-35,"Bac Ninh, Tinh Bac Ninh",170,92.5,111,NULL,NULL,45.5,NULL
-36,"Cau Giay, Hanoi",173,98.3,136.3,NULL,10.1,NULL,0.8
-37,"Thanh Pho Thai Nguyen, Tinh Thai Nguyen",176,103.8,NULL,NULL,NULL,3.7,1.1
-38,"Hai BaTrung, Hanoi",183,116.9,131.8,NULL,14.4,NULL,694.6
-39,"Nhu Quynh, Tinh Hung Yen",170,91.5,118.5,0,34.4,8.6,0
-40,"Nantwich, England",121,43.7,NULL,NULL,NULL,NULL,NULL
-41,"Warrington, England",114,41,50.2,NULL,45.1,NULL,NULL
-42,"Wigan, England",113,40.5,46.2,1.8,13.8,NULL,NULL
-43,"Haydock, England",112,40,46.4,NULL,NULL,NULL,NULL
-44,"Leigh, England",107,38,45.4,NULL,49,NULL,NULL
-45,"Ringwood, England",106,37.6,NULL,NULL,NULL,NULL,NULL
-46,"Salford, England",102,35.9,NULL,NULL,NULL,NULL,NULL
-47,"Manchester, England",96,33.8,36.6,1.6,74.4,4,NULL
-48,"Cambridge, England",92,31.7,7.1,NULL,13.3,NULL,NULL
-49,"Weymouth, England",92,31.9,NULL,NULL,NULL,NULL,NULL
-50,"Talence, Nouvelle-Aquitaine",154,61,63,2,25,NULL,NULL
-51,"Nantes, Pays de la Loire",134,49,54,1.5,19,2,NULL
-52,"Tarbes, Occitanie",133,48.7,50.8,2.2,25.8,NULL,NULL
-53,"Toulouse, Occitanie",129,47,55.5,4.9,30.2,NULL,NULL
-54,"Lorient, Brittany",125,45.1,56.8,2,25.6,NULL,NULL
-55,"Bassens, Nouvelle-Aquitaine",124,45,48,3,21,1,NULL
-56,"Perigueux, Nouvelle-Aquitaine",124,45,47,2,11,NULL,NULL
-57,"Biars-sur-Cere, Occitanie",122,44,57.8,0,23.3,NULL,NULL
-58,"Bouguenais, Pays de la Loire",122,44,65,NULL,19,1,NULL
-59,"Saint-Nazaire, Pays de la Loire",122,44,45,4,16,1,NULL
-60,"Oberaudorf, Bavaria",81,26.5,28.4,NULL,24.6,NULL,NULL
-61,"Meiderich, Nordrhein-Westfalen",78,25.1,NULL,NULL,NULL,NULL,NULL
-62,"Schongau, Bavaria",77,24.5,NULL,NULL,NULL,NULL,NULL
-63,"Ettlingen, Baden-Wuerttemberg",75,23.6,NULL,NULL,NULL,NULL,NULL
-64,"Eppelheim, Baden-Wuerttemberg",74,23.2,NULL,NULL,NULL,NULL,NULL
-65,"Neuenburg, Baden-Wuerttemberg",74,23,24,15,NULL,NULL,NULL
-66,"Weil am Rhein, Baden-Wuerttemberg",74,23,24,3,NULL,NULL,NULL
-67,"Mainz, Rheinland-Pfalz",70,21.3,16,35,11,1,240
-68,"Rottach-Egern, Bavaria",70,21.2,NULL,NULL,NULL,NULL,NULL
-69,"Dresden, Saxony",68,20,9.5,30,9,0,NULL
-70,"Sam Phran, Nakhon Pathom",184,120.2,NULL,NULL,NULL,NULL,NULL
-71,"Nakhon Pathom, Nakhon Pathom",156,65.2,NULL,NULL,NULL,NULL,NULL
-72,"Samut Sakhon, Samut Sakhon",122,44.2,180,104,52.6,48.5,1293.9
-73,"Bang Khon Thi, Samut Songkhram",167,85.8,NULL,NULL,NULL,NULL,NULL
-74,"Phra Samut Chedi, Samut Prakan",164,80,84,58,60.2,7.9,366.4
-75,"Nong Khaem, Bangkok",162,77,99,NULL,NULL,NULL,NULL
-76,"Nakhon Chai Si, Nakhon Pathom",161,75,114,44,37.6,10.5,893.1
-77,"Samut Songkhram, Samut Songkhram",164,81.2,NULL,NULL,NULL,NULL,NULL
-78,"San Kamphaeng, Chiang Mai",118,42.6,NULL,NULL,NULL,NULL,NULL
-79,"Chiang Rai, Chiang Rai",153,59.1,28.5,22,3.8,NULL,681.3
-80,"Ecublens, Vaud",120,43.2,NULL,NULL,NULL,NULL,NULL
-81,"Dubendorf, Zurich",103,36.3,18,26,28,1,NULL
-82,"Liestal, Basel-Landschaft",83,27.5,NULL,NULL,NULL,NULL,NULL
-83,"Rhaezuens, Grisons",91,31,32.1,6.6,NULL,NULL,NULL
-84,"Rotkreuz, Zug",83,27.5,NULL,NULL,NULL,NULL,NULL
-85,"Chur, Grisons",77,24.5,31.5,19.2,34.3,NULL,NULL
-86,"Dietikon, Zurich",77,24.5,NULL,NULL,NULL,NULL,NULL
-87,"Richterswil / Dorfkern, Zurich",74,23.3,NULL,NULL,NULL,NULL,NULL
-88,"Binningen, Basel-Landschaft",74,23,24,8,NULL,NULL,NULL
-89,"Harkingen, Solothurn",70,21,42,6,NULL,NULL,NULL
-90,"Meligalas, Peloponnese",152,56.8,NULL,NULL,NULL,NULL,NULL
-91,"Messini, Peloponnese",148,54.9,NULL,NULL,NULL,NULL,NULL
-92,"Palaio Faliro, Attica",130,47.3,NULL,NULL,NULL,NULL,NULL
-93,"Vrachnaiika, West Greece",125,45.2,NULL,NULL,NULL,NULL,NULL
-94,"Agios Ioannis Rentis, Attica",114,40.7,NULL,NULL,NULL,NULL,NULL
-95,"Peristeri, Attica",98,34.7,NULL,NULL,NULL,NULL,NULL
-96,"Athens, Attica",87,29.2,NULL,NULL,NULL,NULL,NULL
-97,"Piraeus, Attica",87,29.3,NULL,NULL,NULL,NULL,NULL
-98,"Agia Varvara, Attica",76,24.3,NULL,NULL,NULL,NULL,NULL
-99,"Nikaia, Attica",76,23.8,NULL,NULL,NULL,NULL,NULL
-100,"Sao Bernardo do Campo, Sao Paulo",61,17,NULL,22,NULL,NULL,NULL
-101,"Santa Gertrudes, Sao Paulo",57,10,68,NULL,NULL,NULL,NULL
-102,"Sao Caetano do Sul, Sao Paulo",53,13,19,42,35,1,NULL
-103,"Guarulhos, Sao Paulo",45,11,13,41,23,1,572.5
-104,"Cubatao, Sao Paulo",44,NULL,48,NULL,43,3,NULL
-105,"Campinas, Sao Paulo",41,10,11,NULL,19,NULL,NULL
-106,"Maua, Sao Paulo",37,9,11,28,36,2,NULL
-107,"Sao Jose do Rio Preto, Sao Paulo",37,9,17,36,31,NULL,NULL
-108,"Pianco, Paraiba",36,8.8,NULL,NULL,NULL,NULL,NULL
-109,"Boa Vista, Roraima",31,7.5,NULL,NULL,NULL,NULL,NULL
-110,"Solnechnyy, Krasnoyarsk Krai",33,150,NULL,NULL,160,60,140
-111,"Zyryanka, Chukot",72,22,NULL,NULL,NULL,NULL,NULL
-112,"Balashikha, Moscow Oblast",92,31.8,NULL,NULL,NULL,NULL,NULL
-113,"Krasnoyarsk, Krasnoyarsk Krai",62,17.4,NULL,NULL,160,50,160
-114,"Magnitogorsk, Chelyabinsk",83,27.2,NULL,NULL,NULL,NULL,NULL
-115,"Serpukhov, Moscow Oblast",65,18.9,NULL,NULL,NULL,NULL,NULL
-116,"Krasnodar, Krasnodarskiy",57,15,NULL,NULL,NULL,NULL,NULL
-117,"Moscow, Moscow",97,34.1,15,24.3,34.7,1.6,200
-118,"Berezovka, Krasnoyarsk Krai",44,130,NULL,NULL,270,20,80
-119,"Kamensk-Shakhtinskiy, Rostov",42,10.2,NULL,NULL,NULL,NULL,NULL
-120,"Bulacan, Central Luzon",51,12.3,NULL,NULL,NULL,NULL,NULL
-121,"Puerto Princesa, Mimaropa",65,19,35,NULL,NULL,NULL,NULL
-122,"Makati, National Capital Region",78,24.9,NULL,NULL,NULL,NULL,NULL
-123,"Davao City, Davao",59,16,26.5,NULL,13,NULL,NULL
-124,"Pasig City, National Capital Region",51,12.3,NULL,NULL,NULL,NULL,NULL
-125,"Butuan, Caraga",50,12,18,NULL,NULL,NULL,NULL
-126,"Balanga, Central Luzon",66,19.2,NULL,NULL,NULL,NULL,NULL
-127,"Quezon City, National Capital Region",30,7.3,NULL,NULL,NULL,NULL,NULL
-128,"San Juan, National Capital Region",45,10.8,NULL,NULL,NULL,NULL,NULL
-129,"Mandaluyong, National Capital Region",20,4.8,NULL,NULL,NULL,NULL,NULL
-130,"Mandalay, Mandalay",155,62.9,NULL,NULL,NULL,NULL,NULL
-131,"Yangon, Yangon",154,62.1,NULL,4,NULL,NULL,NULL
-132,"Syriam, Yangon",109,38.8,NULL,NULL,NULL,NULL,NULL
-133,"Vientiane, Vientiane",70,21,NULL,NULL,NULL,NULL,NULL
-134,"Tuolumne City, California",156,64.8,NULL,NULL,NULL,NULL,NULL
-135,"La Jolla Shores, California",148,54.7,NULL,NULL,NULL,NULL,NULL
-136,"Peaceful Valley, Washington",99,35.1,NULL,NULL,NULL,NULL,NULL
-137,"Fort Jones, California",151,55.5,NULL,NULL,NULL,NULL,NULL
-138,"Hanford, California",134,49,75.1,2,39.5,NULL,NULL
-139,"Chippewa Falls, Wisconsin",122,44.2,NULL,NULL,NULL,NULL,NULL
-140,"Visalia, California",110,39,NULL,38,NULL,NULL,NULL
-141,"Las Vegas, New Mexico",119,42.8,NULL,NULL,NULL,NULL,NULL
-142,"Sparta, Wisconsin",142,52.3,NULL,NULL,NULL,NULL,NULL
-143,"Reedley, California",120,43.2,NULL,NULL,NULL,NULL,NULL
-144,"Plovdiv, Plovdiv",167,86,95.8,4.1,NULL,6.5,0
-145,"Vidin, Vidin",110,39,46.4,NULL,NULL,NULL,NULL
-146,"Nesebar, Burgas",84,28,38.8,NULL,11.5,2.2,NULL
-147,"Ruse, Ruse",81,26.4,27.6,3.6,NULL,NULL,0
-148,"Sliven, Sliven",72,22,24.2,NULL,NULL,NULL,NULL
-149,"Devnya, Varna",68,20,27.2,0,1.3,NULL,0
-150,"Kardzhali, Kardzhali",68,20,26.2,NULL,NULL,NULL,NULL
-151,"Varna, Varna",66,19.4,20.3,5.8,NULL,NULL,0
-152,"Stara Zagora, Stara Zagora",61,17,21.1,NULL,18,6.5,0
-153,"Sofia, Sofia",57,14.9,27.4,27.5,22.9,5.5,0
-154,"Petaling Jaya, Selangor",100,35.4,NULL,NULL,NULL,NULL,NULL
-155,"Klang, Selangor",78,25,NULL,NULL,NULL,NULL,NULL
-156,"Kuala Langat, Selangor",77,24.3,NULL,NULL,NULL,NULL,NULL
-157,"Banting, Selangor",73,22.5,NULL,NULL,NULL,NULL,NULL
-158,"Nilai, Negeri Sembilan",70,21.2,NULL,NULL,NULL,NULL,NULL
-159,"Seri Manjung, Perak",65,18.6,NULL,NULL,NULL,NULL,NULL
-160,"Shah Alam, Selangor",65,18.6,NULL,NULL,NULL,NULL,NULL
-161,"Kuala Lumpur, Kuala Lumpur",42,10.2,NULL,NULL,NULL,NULL,NULL
-162,"Prai, Penang",59,16,NULL,NULL,NULL,NULL,NULL
-163,"Putrajaya, Putrajaya",59,16,NULL,NULL,NULL,NULL,NULL
-164,"San Juan de Lurigancho, Lima",5,20.6,NULL,4.3,NULL,9.9,1
-165,"Trujillo, La Libertad",56,14.3,NULL,NULL,NULL,NULL,NULL
-166,"Lima, Lima",43,10.5,14.1,NULL,NULL,NULL,NULL
-167,"HUACHIPA, Lima",28,NULL,NULL,NULL,NULL,50.4,46
-168,"El Tambo, Junin",21,5.1,NULL,NULL,NULL,NULL,NULL
-169,"Cusco, Cusco",17,4.1,NULL,NULL,NULL,NULL,NULL
-170,"Chupaca, Junin",12,3,NULL,NULL,NULL,NULL,NULL
-171,"Santa Anita, Lima",10,NULL,NULL,NULL,3.1,17.7,NULL
-172,"Puerto Maldonado, Madre de Dios",2,0.5,NULL,NULL,NULL,NULL,NULL
-173,"Inapari, Madre de Dios",NULL,NULL,NULL,NULL,NULL,NULL,NULL
-174,"Valjevo, Central Serbia",153,59.7,32,NULL,40.8,8.3,NULL
-175,"Novi Pazar, Central serb",141,51.7,52.7,19.3,15.9,11.1,NULL
-176,"Novi Sad, Autonomna Pokrajina Vojvodina",67,19.7,21.1,NULL,31.9,10.9,NULL
-177,"Pancevo, Autonomna Pokrajina Vojvodina",58,15.4,17.8,39.7,4.2,13.4,NULL
-178,"Kragujevac, Central Serbia",46,11.2,NULL,NULL,7.7,NULL,NULL
-179,"KOSJERIC, Central Serbia",32,7.8,8,4.6,5.3,4.5,NULL
-180,"Lipe, Central Serbia",31,7.5,NULL,NULL,NULL,NULL,NULL
-181,"Belgrade, Central Serbia",25,6,6.2,63,8.1,16.2,435
-182,"Vrsac, Autonomna Pokrajina Vojvodina",25,NULL,NULL,61.2,1.6,6.5,NULL
-183,"Gornji Milanovac, Central serb",21,5.2,NULL,NULL,NULL,NULL,NULL
-184,"Novaky, Nitra",84,28,10,NULL,NULL,2,NULL
-185,"Jelsava, Banska Bystrica",28,27,31,6,NULL,NULL,NULL
-186,"Banska Bystrica, Banska Bystrica",62,17.5,14,3,19,NULL,NULL
-187,"Hnusta, Banska Bystrica",72,22,27,NULL,NULL,NULL,NULL
-188,"Martin, Zilina",84,28,21,NULL,NULL,NULL,NULL
-189,"Vranov nad Toplou, Presov",63,18,23,NULL,NULL,7,NULL
-190,"Moldava nad Bodvou, Kosice",46,11.2,12.8,NULL,NULL,NULL,NULL
-191,"Handlova, Trencin",70,21,15,NULL,NULL,NULL,NULL
-192,"Strazske, Kosice",65,19,20,NULL,NULL,NULL,NULL
-193,"Zvolen-Motova, Banska Bystrica",25,6,8,NULL,NULL,NULL,NULL
-194,"Puebla de Alfinden, Aragon",102,35.7,NULL,NULL,NULL,NULL,NULL
-195,"Ourense, Galicia",59,16,22,22,42,2.7,0
-196,"Ponferrada, Castille and Leon",68,20,24,5,25,6,NULL
-197,"Pontecesures, Galicia",76,24.2,16.3,3.7,NULL,1,NULL
-198,"Sants, Catalunya",77,24.5,NULL,NULL,NULL,NULL,NULL
-199,"Palma, Balearic Islands",21,5,11,42,14,2.3,0
-200,"Vitoria-Gasteiz, Basque Country",74,23,19.5,NULL,32.5,4,0
-201,"Altsasu, Navarre",61,17,20,3,34,5,NULL
-202,"Ciutat Meridiana, Catalunya",68,20,28,NULL,NULL,NULL,NULL
-203,"Guadalix de la Sierra, Madrid",61,17,24,NULL,41,NULL,NULL
-204,"Fiq, Quneitra",117,41.9,NULL,NULL,NULL,NULL,NULL
-205,"Arwad, Tartus",75,23.4,39.5,NULL,7.7,3.4,NULL
+,City,Level,PM2.5,PM10,O3,NO2,SO2,CO
+0,"Ube, Yamaguchi",Moderate,30,8,NULL,9.4,7.9,NULL
+1,"Hiraidemachi, Tochigi",Moderate,23,8,NULL,39.5,NULL,NULL
+2,"Minato, Wakayama",Moderate,20,24,NULL,NULL,23.6,NULL
+3,"Mizusawaku Higashiodori, Iwate",Moderate,19,4,NULL,26.3,2.6,NULL
+4,"Futago, Kanagawa",Moderate,15,11,NULL,73.3,NULL,NULL
+5,"Tamana, Kumamoto",Moderate,18,8,NULL,7.5,NULL,NULL
+6,"Hanazakicho, Chiba",Moderate,17,NULL,NULL,NULL,NULL,NULL
+7,"Yumeimachi, Fukuoka",Moderate,16,7,NULL,9.4,2.6,229
+8,"Higashikoshigaya, Saitama",Moderate,15,15,NULL,45.1,2.6,NULL
+9,"Honmokucho, Kanagawa",Good,7,7,NULL,41.4,5.2,NULL
+10,"Shihezi, Xinjiang",Very Unhealthy,235,264,6,85.5,12.5,2300
+11,"Ili, Xinjiang",Very Unhealthy,177,182,39,52,36,2600
+12,"Changji, Xinjiang",Very Unhealthy,152,183,NULL,84,5,NULL
+13,"Turpan, Xinjiang",Unhealthy,145.5,192.5,28.5,62,29,2100
+14,"Fushun, Liaoning",Unhealthy,103,142,10,42,20,1500
+15,"Jinzhou, Liaoning",Unhealthy,94,85,20,54,65,2100
+16,"Yuxia, Shaanxi",Unhealthy,84,82,17,37,12,1241.5
+17,"Linxia Chengguanzhen, Gansu",Unhealthy,83,99,NULL,13,NULL,NULL
+18,"Urumqi, Xinjiang",Unhealthy,83,94,14,100,6,2200
+19,"Karamay, Xinjiang",Unhealthy,81,86,40.5,29,3.5,1100
+20,"Regina, Saskatchewan",Unhealthy For Sensitive Groups,42.1,NULL,8,58.3,NULL,NULL
+21,"Winnipeg, Manitoba",Moderate,35.3,NULL,5.4,13.5,NULL,NULL
+22,"Brandon, Manitoba",Moderate,34.9,NULL,NULL,17.7,NULL,NULL
+23,"St. Albert, Alberta",Moderate,35.2,NULL,2,82.7,2.6,NULL
+24,"Houston, British Columbia",Moderate,32.9,3.8,NULL,NULL,NULL,NULL
+25,"Edmonton, Alberta",Moderate,32.4,NULL,2,77.1,2.6,NULL
+26,"Rideau Park, Alberta",Moderate,30,NULL,2,67.7,2.6,NULL
+27,"Dawson City, Yukon",Moderate,30,NULL,NULL,NULL,NULL,NULL
+28,"Prince Albert, Saskatchewan",Moderate,28.9,NULL,36,NULL,NULL,NULL
+29,"Stettler, Alberta",Moderate,27.7,NULL,NULL,NULL,NULL,NULL
+30,"Ha Tinh, Tinh Ha Tinh",Unhealthy For Sensitive Groups,46.9,NULL,NULL,NULL,NULL,NULL
+31,"Pho Moi, Tinh Bac Ninh",Moderate,33.6,55.6,15.4,28.9,101.9,0
+32,"Hanoi, Hanoi",Moderate,33.2,53.2,0.6,26,2.1,993.6
+33,"Cau Dien, Hanoi",Moderate,29.7,54.5,0,39.1,1.6,299.9
+34,"Ho Chi Minh City, Ho Chi Minh City",Moderate,28.7,NULL,NULL,NULL,NULL,NULL
+35,"Long Xuyen, An Giang",Moderate,27.8,NULL,NULL,NULL,NULL,NULL
+36,"Phuc Yen, Tinh Vinh Phuc",Moderate,25.7,51.3,NULL,NULL,NULL,NULL
+37,"Nhu Quynh, Tinh Hung Yen",Moderate,23.8,51.3,0,15.4,7,0.9
+38,"Thanh Pho Thai Nguyen, Tinh Thai Nguyen",Moderate,24.2,32,NULL,NULL,1.1,0.9
+39,"Hoan Kiem, Hanoi",Moderate,22.5,22.7,33.1,21.1,14.7,0
+40,"Tadley, England",Unhealthy For Sensitive Groups,51.7,NULL,NULL,NULL,NULL,NULL
+41,"Highland, Scotland",Unhealthy For Sensitive Groups,43.6,NULL,NULL,NULL,NULL,NULL
+42,"Cowley, England",Unhealthy For Sensitive Groups,42.9,NULL,NULL,NULL,NULL,NULL
+43,"Girton, England",Unhealthy For Sensitive Groups,41.5,15.8,NULL,33.3,NULL,NULL
+44,"Stockton, England",Unhealthy For Sensitive Groups,41.8,NULL,NULL,NULL,NULL,NULL
+45,"Cambridge, England",Unhealthy For Sensitive Groups,40.3,21.7,NULL,33.2,NULL,NULL
+46,"Colchester, England",Unhealthy For Sensitive Groups,40,NULL,NULL,NULL,NULL,NULL
+47,"Brentford, England",Unhealthy For Sensitive Groups,37,43,NULL,63.7,NULL,NULL
+48,"Crondall, England",Unhealthy For Sensitive Groups,37.1,NULL,NULL,NULL,NULL,NULL
+49,"Teddington, England",Moderate,30.9,36.6,NULL,NULL,NULL,NULL
+50,"Quimper, Brittany",Unhealthy For Sensitive Groups,51,53.3,NULL,NULL,NULL,NULL
+51,"Dax, Nouvelle-Aquitaine",Moderate,34,37,28,18,NULL,NULL
+52,"Biars-sur-Cere, Occitanie",Moderate,33,46.3,32,21.9,NULL,NULL
+53,"Albi, Occitanie",Moderate,25,38.5,NULL,24.3,NULL,NULL
+54,"Tours, Centre",Moderate,26.3,24.1,NULL,42.2,NULL,NULL
+55,"Toulouse, Occitanie",Moderate,28.3,38.1,22.6,29.2,NULL,NULL
+56,"Saint-Jean-de-Braye, Centre",Moderate,24.9,NULL,NULL,31,NULL,NULL
+57,"La Lechere, Auvergne-Rhone-Alpes",Moderate,27,35.3,NULL,NULL,NULL,NULL
+58,"Laval, Pays de la Loire",Moderate,24,30,13,21,NULL,NULL
+59,"Nantes, Pays de la Loire",Moderate,25,30,38,47,1,NULL
+60,"Northeim, Lower Saxony",Moderate,27.6,NULL,NULL,NULL,NULL,NULL
+61,"Hamburg, Hamburg",Moderate,25.9,NULL,18,21,3,330
+62,"Eppelheim, Baden-Wuerttemberg",Moderate,22.6,NULL,NULL,NULL,NULL,NULL
+63,"Bernau bei Berlin, Brandenburg",Moderate,22,29,NULL,24.8,NULL,NULL
+64,"Meppen, Lower Saxony",Moderate,21.2,NULL,NULL,NULL,NULL,NULL
+65,"Dresden, Saxony",Good,5,11,13,41,0,NULL
+66,"Schongau, Bavaria",Moderate,19.6,NULL,NULL,NULL,NULL,NULL
+67,"Konstanz, Baden-Wuerttemberg",Moderate,19,21,4,NULL,NULL,NULL
+68,"Heppenheim (Bergstrasse), Hessen",Moderate,17.5,17.1,NULL,NULL,NULL,NULL
+69,"Friedrichshafen, Baden-Wuerttemberg",Moderate,17,19,30,NULL,NULL,NULL
+70,"Saraburi, Sara Buri",Unhealthy,84,69,52,65.8,NULL,NULL
+71,"Tha Muang, Kanchanaburi",Unhealthy,72.1,NULL,NULL,NULL,NULL,NULL
+72,"Doi Saket, Chiang Mai",Unhealthy For Sensitive Groups,53.3,NULL,NULL,NULL,NULL,NULL
+73,"Ratchaburi, Ratchaburi",Moderate,30,70,40,NULL,NULL,NULL
+74,"Hang Dong, Chiang Mai",Moderate,23.7,NULL,NULL,NULL,NULL,NULL
+75,"Lampang, Lampang",Unhealthy For Sensitive Groups,44.5,19,84,NULL,2.6,NULL
+76,"San Sai, Chiang Mai",Unhealthy For Sensitive Groups,39.9,NULL,NULL,NULL,NULL,NULL
+77,"Hua Hin, Prachuap Khiri Khan",Unhealthy For Sensitive Groups,39.7,NULL,NULL,NULL,NULL,NULL
+78,"Pai, Mae Hong Son",Unhealthy For Sensitive Groups,39.6,NULL,NULL,NULL,NULL,NULL
+79,"Ban Sang, Prachin Buri",Unhealthy For Sensitive Groups,38.6,NULL,NULL,NULL,NULL,NULL
+80,"Kloten / Balsberg, Zurich",Unhealthy For Sensitive Groups,41,14.9,19.6,32.1,NULL,NULL
+81,"Bodio, Ticino",Unhealthy For Sensitive Groups,37,73,3,63,16,NULL
+82,"Lumino, Ticino",Moderate,31,39.5,NULL,34.1,NULL,NULL
+83,"Ecublens, Vaud",Moderate,30.9,NULL,NULL,NULL,NULL,NULL
+84,"Visp, Valais",Moderate,25,31,24,39,NULL,NULL
+85,"Dubendorf, Zurich",Moderate,22.6,16,36,29,NULL,NULL
+86,"Unteriberg, Schwyz",Moderate,22.6,NULL,NULL,NULL,NULL,NULL
+87,"Rhaezuens, Grisons",Moderate,20,23.5,25.4,NULL,NULL,NULL
+88,"Lausanne, Vaud",Moderate,19.6,NULL,NULL,NULL,NULL,NULL
+89,"Dietikon, Zurich",Moderate,18.7,NULL,NULL,NULL,NULL,NULL
+90,"Meligalas, Peloponnese",Unhealthy,74.5,NULL,NULL,NULL,NULL,NULL
+91,"Messini, Peloponnese",Unhealthy For Sensitive Groups,41.9,NULL,NULL,NULL,NULL,NULL
+92,"Ovria, West Greece",Unhealthy For Sensitive Groups,41.6,NULL,NULL,NULL,NULL,NULL
+93,"Ano Liosia, Attica",Moderate,31.2,NULL,NULL,NULL,NULL,NULL
+94,"Metamorfosi, Attica",Moderate,30.2,NULL,NULL,NULL,NULL,NULL
+95,"Athens, Attica",Moderate,29.2,NULL,NULL,NULL,NULL,NULL
+96,"Dhafni, Attica",Moderate,29.4,NULL,NULL,NULL,NULL,NULL
+97,"Melissia, Attica",Moderate,29.3,NULL,NULL,NULL,NULL,NULL
+98,"Vrilissia, Attica",Moderate,29.5,NULL,NULL,NULL,NULL,NULL
+99,"Nikaia, Attica",Moderate,28.8,NULL,NULL,NULL,NULL,NULL
+100,"Sao Bernardo do Campo, Sao Paulo",Moderate,23,NULL,63,NULL,NULL,NULL
+101,"Sao Jose do Rio Preto, Sao Paulo",Good,12,9,67,3,NULL,NULL
+102,"Cubatao, Sao Paulo",Good,NULL,45,NULL,38,6,NULL
+103,"Guarulhos, Sao Paulo",Good,10,19.5,41,14,1,572.5
+104,"Santa Gertrudes, Sao Paulo",Good,10,20,NULL,NULL,NULL,NULL
+105,"Sao Paulo, Sao Paulo",Good,10,17,56,14,2,286.3
+106,"Piracicaba, Sao Paulo",Good,9,12,2,6,NULL,NULL
+107,"Santos, Sao Paulo",Good,9,15,81,7,1,NULL
+108,"Sao Jose dos Campos, Sao Paulo",Good,7,39,52,5,1,229
+109,"Campinas, Sao Paulo",Good,8,30,6,5,NULL,NULL
+110,"Berezovka, Krasnoyarsk Krai",Hazardous,770,NULL,NULL,470,20,480
+111,"Solnechnyy, Krasnoyarsk Krai",Hazardous,435,NULL,NULL,320,50,280
+112,"Krasnoyarsk, Krasnoyarsk Krai",Unhealthy,83.3,NULL,NULL,310,35,370
+113,"Serpukhov, Moscow Oblast",Moderate,26.7,NULL,NULL,NULL,NULL,NULL
+114,"Balashikha, Moscow Oblast",Moderate,24,NULL,NULL,NULL,NULL,NULL
+115,"Zyryanka, Chukot",Moderate,15,NULL,NULL,NULL,NULL,NULL
+116,"Gelendzhik, Krasnodarskiy",Moderate,13,NULL,NULL,NULL,NULL,NULL
+117,"Moscow, Moscow",Moderate,12.5,14,5.4,34,2.5,310
+118,"Tol'yatti, Samara",Good,10,NULL,NULL,NULL,NULL,NULL
+119,"Kamensk-Shakhtinskiy, Rostov",Good,9.7,NULL,NULL,NULL,NULL,NULL
+120,"Davao City, Davao",Moderate,31,62.5,NULL,17.2,NULL,NULL
+121,"Tagum City, Davao",Moderate,20.9,NULL,NULL,NULL,NULL,NULL
+122,"Bulacan, Central Luzon",Good,9.7,NULL,NULL,NULL,NULL,NULL
+123,"Pasig, National Capital Region",Good,9.2,NULL,NULL,NULL,NULL,NULL
+124,"Paranaque, National Capital Region",Good,8.9,NULL,NULL,NULL,NULL,NULL
+125,"Puerto Princesa, Mimaropa",Moderate,13,19,NULL,NULL,NULL,NULL
+126,"Balanga, Central Luzon",Good,6.8,NULL,NULL,NULL,NULL,NULL
+127,"Makati, National Capital Region",Good,5.9,NULL,NULL,NULL,NULL,NULL
+128,"Pasig City, National Capital Region",Good,5,NULL,NULL,NULL,NULL,NULL
+129,"Marikina, National Capital Region",Good,4.5,NULL,NULL,NULL,NULL,NULL
+130,"Yangon, Yangon",Unhealthy For Sensitive Groups,41.8,NULL,4,NULL,NULL,NULL
+131,"Syriam, Yangon",Moderate,34.3,NULL,NULL,NULL,NULL,NULL
+132,"Mandalay, Mandalay",Moderate,31.4,NULL,NULL,NULL,NULL,NULL
+133,"Vientiane, Vientiane",Moderate,13,NULL,NULL,NULL,NULL,NULL
+134,"Rice Lake, Wisconsin",Unhealthy,104.9,NULL,NULL,NULL,NULL,NULL
+135,"Portola, California",Unhealthy,61,NULL,NULL,NULL,NULL,NULL
+136,"La Mirada, California",Unhealthy For Sensitive Groups,55.2,NULL,NULL,NULL,NULL,NULL
+137,"Jemez Pueblo, New Mexico",Unhealthy For Sensitive Groups,54.1,NULL,NULL,NULL,NULL,NULL
+138,"North Pole, Alaska",Unhealthy For Sensitive Groups,51.9,NULL,NULL,NULL,NULL,NULL
+139,"Nogales, Arizona",Unhealthy For Sensitive Groups,47.9,158.7,NULL,NULL,NULL,NULL
+140,"South Valley, New Mexico",Unhealthy For Sensitive Groups,46.1,NULL,NULL,NULL,NULL,NULL
+141,"Baldwin Park, California",Unhealthy For Sensitive Groups,45.1,NULL,NULL,NULL,NULL,NULL
+142,"Del Aire, California",Unhealthy For Sensitive Groups,44.1,NULL,NULL,NULL,NULL,NULL
+143,"Stanislaus, California",Unhealthy For Sensitive Groups,43.9,NULL,NULL,NULL,NULL,NULL
+144,"Plovdiv, Plovdiv",Unhealthy,69,70.1,8.8,NULL,7.9,0.7
+145,"Vidin, Vidin",Moderate,35,44.8,NULL,NULL,NULL,NULL
+146,"Varna, Varna",Moderate,22.5,24.9,21.2,39.9,5,0
+147,"Sliven, Sliven",Moderate,20,30.4,NULL,NULL,NULL,NULL
+148,"Burgas, Burgas",Moderate,19.9,23.5,41.3,NULL,13.9,0
+149,"Sofia, Sofia",Moderate,18.3,21.5,17.5,44.9,12,1
+150,"Lovech, Lovech",Moderate,18,23.3,NULL,NULL,NULL,NULL
+151,"Oriyakovica, Veliko Tarnovo",Moderate,16,19.9,17,NULL,5.3,NULL
+152,"Smolyan, Smolyan",Moderate,15,21.8,NULL,NULL,NULL,NULL
+153,"Nesebar, Burgas",Moderate,14,28.6,NULL,16.1,2.7,NULL
+154,"Petaling Jaya, Selangor",Unhealthy For Sensitive Groups,54.8,NULL,NULL,NULL,NULL,NULL
+155,"Klang, Selangor",Unhealthy For Sensitive Groups,43.2,NULL,NULL,NULL,NULL,NULL
+156,"Shah Alam, Selangor",Moderate,19.9,NULL,NULL,NULL,NULL,NULL
+157,"Balok, Pahang",Moderate,15,29.7,NULL,NULL,NULL,NULL
+158,"Kuala Selangor, Selangor",Moderate,14.7,NULL,NULL,NULL,NULL,NULL
+159,"Kuala Langat, Selangor",Moderate,14.1,NULL,NULL,NULL,NULL,NULL
+160,"Balik Pulau, Penang",Moderate,13.4,NULL,NULL,NULL,NULL,NULL
+161,"Pekan, Pahang",Good,11.3,NULL,NULL,NULL,NULL,NULL
+162,"Putrajaya, Putrajaya",Good,11,NULL,NULL,NULL,NULL,NULL
+163,"Kota Bharu, Kelantan",Good,10.6,NULL,NULL,NULL,NULL,NULL
+164,"San Juan de Lurigancho, Lima",Moderate,28.3,NULL,24.8,NULL,10.5,1
+165,"Trujillo, La Libertad",Moderate,21.6,NULL,NULL,NULL,NULL,NULL
+166,"Lima, Lima",Good,11.6,19.7,NULL,NULL,NULL,NULL
+167,"Cusco, Cusco",Good,8.7,NULL,NULL,NULL,NULL,NULL
+168,"HUACHIPA, Lima",Good,NULL,NULL,NULL,NULL,51.5,253
+169,"El Tambo, Junin",Good,5.4,NULL,NULL,NULL,NULL,NULL
+170,"Chupaca, Junin",Good,4,NULL,NULL,NULL,NULL,NULL
+171,"Puerto Maldonado, Madre de Dios",Good,2.3,NULL,NULL,NULL,NULL,NULL
+172,"Santa Anita, Lima",Good,NULL,NULL,NULL,50.4,15.4,NULL
+173,"Villa Maria del Triunfo, Lima",Good,NULL,NULL,NULL,NULL,12.9,1
+174,"Valjevo, Central Serbia",Unhealthy,91.9,92.6,NULL,59.8,7.7,NULL
+175,"Cacak, Central Serbia",Unhealthy,74.7,NULL,NULL,14.3,NULL,NULL
+176,"Uzice, Central Serbia",Unhealthy,63.1,63.2,NULL,2.7,10,NULL
+177,"Novi Pazar, Central serb",Unhealthy,55.7,56.6,27.5,46.8,23.2,NULL
+178,"Nis, Central Serbia",Unhealthy For Sensitive Groups,48.1,16.3,37.9,34.8,9.7,NULL
+179,"Pancevo, Central Serbia",Moderate,30,35.2,40.3,34.3,8,1170
+180,"Gornji Milanovac, Central serb",Moderate,29.5,NULL,NULL,NULL,NULL,NULL
+181,"Kragujevac, Central Serbia",Moderate,27.2,NULL,NULL,61.8,NULL,NULL
+182,"Pancevo, Autonomna Pokrajina Vojvodina",Moderate,21.6,21.9,38.8,15,12.9,NULL
+183,"Belgrade, Central Serbia",Moderate,20,16.5,29,32.2,9.2,530
+184,"Moldava nad Bodvou, Kosice",Unhealthy For Sensitive Groups,46,59.4,NULL,NULL,NULL,NULL
+185,"Nad Jazerom, Kosice",Unhealthy For Sensitive Groups,43,60,NULL,NULL,NULL,NULL
+186,"Martin, Zilina",Unhealthy For Sensitive Groups,41,54,NULL,NULL,NULL,NULL
+187,"Ruzomberok, Zilina",Unhealthy For Sensitive Groups,41,52,NULL,NULL,5,NULL
+188,"Kosice, Kosice",Unhealthy For Sensitive Groups,40.5,53,2,NULL,5,787.5
+189,"Handlova, Trencin",Unhealthy For Sensitive Groups,37,31,NULL,NULL,NULL,NULL
+190,"Prievidza, Trencin",Unhealthy For Sensitive Groups,37,26,4,NULL,NULL,NULL
+191,"Banska Bystrica, Banska Bystrica",Unhealthy For Sensitive Groups,36.5,30.5,NULL,34.5,NULL,NULL
+192,"Krompachy, Kosice",Moderate,28,30,NULL,NULL,NULL,NULL
+193,"Strazske, Kosice",Moderate,27,37,NULL,NULL,NULL,NULL
+194,"Sants, Catalunya",Unhealthy For Sensitive Groups,41.7,NULL,NULL,NULL,NULL,NULL
+195,"Puebla de Alfinden, Aragon",Unhealthy For Sensitive Groups,39.5,NULL,NULL,NULL,NULL,NULL
+196,"Ponferrada, Castille and Leon",Unhealthy For Sensitive Groups,39,56,21,34,17,NULL
+197,"Leganés, Madrid",Moderate,34,36,16,54,NULL,NULL
+198,"Carracedelo, Castille and Leon",Moderate,28,46,27,18,4,NULL
+199,"Sondika, Basque Country",Moderate,28,42,NULL,28,NULL,NULL
+200,"Chert/Xert, Valencia",Moderate,24.3,NULL,NULL,NULL,NULL,NULL
+201,"Puertollano, Castilla-La Mancha",Moderate,23,15,34,14,5,NULL
+202,"Beasain, Basque Country",Moderate,22,NULL,NULL,NULL,2,0
+203,"Ciutat Meridiana, Catalunya",Moderate,22,32,NULL,NULL,NULL,NULL
+204,"Arwad, Tartus",Moderate,28.7,46.3,NULL,18.4,7.9,NULL
+205,"Fiq, Quneitra",Moderate,28.8,NULL,NULL,NULL,NULL,NULL
