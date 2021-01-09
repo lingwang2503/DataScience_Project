@@ -1,0 +1,97 @@
+,City,Level,PM2.5,PM10,O3,NO2,SO2,CO
+0,Dhaka,Very Unhealthy,227.5,NULL,NULL,NULL,NULL,NULL
+1,Delhi,Very Unhealthy,137.7,201.2,9.8,35,12.6,1181.7
+2,Bishkek,Very Unhealthy,157.4,2.2,NULL,NULL,NULL,NULL
+3,Kathmandu,Unhealthy,112.2,198.5,14.8,NULL,NULL,NULL
+4,Lahore,Unhealthy,104.5,NULL,NULL,NULL,NULL,NULL
+5,Kolkata,Unhealthy,78.3,131.7,36.1,36.3,11,510
+6,Mumbai,Unhealthy,115.7,230.4,13.6,37.5,19.4,1281.3
+7,Kabul,Unhealthy,83.6,NULL,NULL,NULL,NULL,NULL
+8,Chengdu,Unhealthy,77.4,104.7,5.8,51.1,6.5,880
+9,Riyadh,Unhealthy,90.4,NULL,NULL,NULL,NULL,NULL
+10,Karachi,Unhealthy,56.9,NULL,NULL,NULL,NULL,NULL
+11,Nur-Sultan,Unhealthy,51.6,86.3,NULL,27.1,36.7,1066.6
+12,Tehran,Unhealthy,67.7,86.6,14.4,260.3,31.6,2833.9
+13,Chongqing,Unhealthy,60.4,87.7,6,41.3,8.8,900
+14,Warsaw,Unhealthy,62.3,60.8,3.9,30.3,NULL,0.8
+15,Ulaanbaatar,Unhealthy For Sensitive Groups,51.8,59.4,15,10.7,28.8,5.8
+16,Yangon,Unhealthy For Sensitive Groups,59.3,NULL,2,NULL,NULL,NULL
+17,Belgrade,Unhealthy For Sensitive Groups,41.1,35.7,15.5,15,7.1,572
+18,Milano,Unhealthy For Sensitive Groups,54.1,NULL,3.7,70.6,3.8,1.5
+19,Wuhan,Unhealthy For Sensitive Groups,42.2,76.9,29.2,53.1,11.6,630
+20,Sarajevo,Unhealthy For Sensitive Groups,58.6,77.1,12.3,33.9,44,NULL
+21,Kyiv,Unhealthy For Sensitive Groups,37.6,NULL,NULL,NULL,NULL,NULL
+22,Krasnoyarsk,Unhealthy For Sensitive Groups,20.2,NULL,NULL,208.3,39.2,335.7
+23,Kuwait City,Unhealthy For Sensitive Groups,42.8,NULL,NULL,NULL,NULL,NULL
+24,Hanoi,Moderate,28.1,39.7,0,13.7,0.7,634
+25,Ho Chi Minh City,Unhealthy For Sensitive Groups,38.9,NULL,NULL,NULL,NULL,NULL
+26,Mexico City,Unhealthy For Sensitive Groups,27.3,34.7,58.3,26.2,4.4,732.8
+27,Jerusalem,Moderate,22.3,103.3,2,7.8,NULL,NULL
+28,Johannesburg,Moderate,34.1,39.9,21.6,28.9,5.7,NULL
+29,Salt Lake City,Moderate,23.8,NULL,32,63.5,0.4,57.3
+30,Chiang Mai,Moderate,36.7,60.2,55.3,9.6,4.7,NULL
+31,Shanghai,Moderate,35.2,64.1,35,44.5,12.9,791.7
+32,San Francisco,Moderate,20.8,NULL,18,33.6,NULL,NULL
+33,Paris,Moderate,28.3,34.8,6.5,53.6,1.8,0.6
+34,Kaohsiung,Moderate,21.8,39.3,38.9,27.3,7.5,439.2
+35,Portland,Moderate,13.3,NULL,2.8,3.7,2.7,17.1
+36,Tel Aviv-Yafo,Moderate,19,33.6,66.7,21,4.3,257.6
+37,Hangzhou,Moderate,23.8,61.3,40.5,29.2,7.8,590
+38,Seattle,Moderate,10.1,NULL,NULL,NULL,NULL,NULL
+39,Wroclaw,Moderate,24.9,3.8,10.3,20.9,4.7,967.6
+40,Budapest,Moderate,20.7,23.8,9.1,27,4.8,516.7
+41,Krakow,Moderate,36.3,37.9,NULL,18.1,4.8,NULL
+42,Jakarta,Moderate,12.2,28.5,NULL,NULL,NULL,NULL
+43,London,Moderate,12.1,11.8,26.9,16,1,900
+44,Zagreb,Moderate,14.6,41.5,50.7,7.4,3,300
+45,Brussels,Moderate,15.5,18.8,2,41.7,1,0
+46,Shenyang,Moderate,47,67.5,21.1,39.8,26.3,1221.4
+47,Seoul,Moderate,16.7,27,33.7,49.7,12,629.8
+48,Vienna,Moderate,14.2,15.4,35.7,11.9,1,275
+49,Bern,Moderate,14,24.5,5,NULL,NULL,NULL
+50,Bratislava,Moderate,15.6,17.3,23.2,22.8,4,NULL
+51,Incheon,Moderate,18.9,28.8,34.8,39.2,12.9,639.3
+52,Moscow,Moderate,14,16.1,5.5,27.6,2.1,276.7
+53,Rotterdam,Moderate,17.9,16.5,NULL,63.7,NULL,NULL
+54,Lyon,Moderate,12.8,15.7,38.9,12.8,NULL,NULL
+55,Phnom Penh,Moderate,15,NULL,NULL,NULL,NULL,NULL
+56,Taipei,Moderate,13.1,28.3,51,22.4,3.8,358.8
+57,Denver,Moderate,10.2,26,46.2,57.5,1.1,278.1
+58,Shenzhen,Moderate,10.6,32,44.4,22.2,8,558.3
+59,Dubai,Moderate,11.6,NULL,NULL,NULL,NULL,NULL
+60,Sao Paulo,Good,11.5,16.7,43.7,15,2,381.7
+61,Beijing,Good,12.8,51.1,43.4,22.8,3.1,333.3
+62,Hong Kong,Good,11,29.4,37.2,36.2,5.1,530.7
+63,Munich,Good,11,13.5,36,19.5,NULL,0
+64,Prague,Good,11.3,18.2,8.7,22.7,NULL,659.6
+65,Guangzhou,Good,10.3,25.8,55.1,19.5,8.5,466.7
+66,Lima,Good,9.3,11.9,NULL,NULL,NULL,NULL
+67,Busan,Good,10.2,18.1,NULL,16.9,7.9,343.5
+68,Oslo,Good,6.9,9.8,NULL,14.6,NULL,0
+69,Bogota,Good,7.5,16.5,11.6,NULL,NULL,NULL
+70,Amsterdam,Good,8.9,12.2,10.2,47.4,0.5,446.3
+71,Bangkok,Good,8.7,39.5,48,4.4,NULL,838.7
+72,Singapore,Good,8,26.4,6.1,12.1,3,0
+73,Vancouver BC,Good,6.2,5.5,22.3,29.4,0.7,262.8
+74,Kobe,Good,7.6,9,NULL,25.6,NULL,NULL
+75,Kuala Lumpur,Good,6.7,NULL,NULL,NULL,NULL,NULL
+76,Madrid,Good,2.3,3.1,63,5.3,1.3,0
+77,Helsinki,Good,5.5,4.8,39.3,7.9,0,NULL
+78,Santiago,Good,7.8,46.3,28,18.2,1.7,377.9
+79,Detroit,Good,4.7,NULL,NULL,13.9,1,687
+80,Kuching,Good,5.4,NULL,NULL,NULL,NULL,NULL
+81,Nagoya,Good,7,6.9,NULL,26.9,NULL,NULL
+82,Osaka,Good,8,4.3,NULL,25.1,NULL,NULL
+83,Kyoto,Good,5.7,8.2,NULL,14.7,NULL,412.2
+84,Berlin,Good,6.8,12.9,8.4,13.1,NULL,0
+85,Toronto,Good,4.5,NULL,36,15,0.7,NULL
+86,Melbourne,Good,5.4,17.9,28.8,3.8,3.4,0
+87,Pristina,Good,4.9,NULL,NULL,NULL,NULL,NULL
+88,Canberra,Good,1.5,3.9,32.7,3,NULL,3.4
+89,Sofia,Good,2.9,2.8,48.1,5.7,4.2,0
+90,New York City,Good,6.6,NULL,41,NULL,3.5,242.8
+91,Tokyo,Good,6.1,6.4,NULL,44.2,2.6,381.7
+92,Los Angeles,Good,17.1,41.2,3,31.8,2.4,NULL
+93,Sydney,Good,0,7.2,31.5,1.1,0,2.3
+94,Skopje,Good,6.8,4.9,20.3,11.5,0,NULL
+95,Tashkent,Good,47.8,NULL,4,NULL,NULL,NULL

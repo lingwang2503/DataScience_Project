@@ -1,0 +1,434 @@
+,City,Level,PM2.5,PM10,O3,NO2,SO2,CO
+0,Dhaka,Very Unhealthy,227.5,,,,,
+1,Delhi,Very Unhealthy,137.7,201.2,9.8,35.0,12.6,1181.7
+2,Bishkek,Very Unhealthy,157.4,2.2,,,,
+3,Kathmandu,Unhealthy,112.2,198.5,14.8,,,
+4,Lahore,Unhealthy,104.5,,,,,
+5,Kolkata,Unhealthy,78.3,131.7,36.1,36.3,11.0,510.0
+6,Mumbai,Unhealthy,115.7,230.4,13.6,37.5,19.4,1281.3
+7,Kabul,Unhealthy,83.6,,,,,
+8,Chengdu,Unhealthy,77.4,104.7,5.8,51.1,6.5,880.0
+9,Riyadh,Unhealthy,90.4,,,,,
+10,Karachi,Unhealthy,56.9,,,,,
+11,Nur-Sultan,Unhealthy,51.6,86.3,,27.1,36.7,1066.6
+12,Tehran,Unhealthy,67.7,86.6,14.4,260.3,31.6,2833.9
+13,Chongqing,Unhealthy,60.4,87.7,6.0,41.3,8.8,900.0
+14,Warsaw,Unhealthy,62.3,60.8,3.9,30.3,,0.8
+15,Ulaanbaatar,Unhealthy For Sensitive Groups,51.8,59.4,15.0,10.7,28.8,5.8
+16,Yangon,Unhealthy For Sensitive Groups,59.3,,2.0,,,
+17,Belgrade,Unhealthy For Sensitive Groups,41.1,35.7,15.5,15.0,7.1,572.0
+18,Milano,Unhealthy For Sensitive Groups,54.1,,3.7,70.6,3.8,1.5
+19,Wuhan,Unhealthy For Sensitive Groups,42.2,76.9,29.2,53.1,11.6,630.0
+20,Sarajevo,Unhealthy For Sensitive Groups,58.6,77.1,12.3,33.9,44.0,
+21,Kyiv,Unhealthy For Sensitive Groups,37.6,,,,,
+22,Krasnoyarsk,Unhealthy For Sensitive Groups,20.2,,,208.3,39.2,335.7
+23,Kuwait City,Unhealthy For Sensitive Groups,42.8,,,,,
+24,Hanoi,Moderate,28.1,39.7,0.0,13.7,0.7,634.0
+25,Ho Chi Minh City,Unhealthy For Sensitive Groups,38.9,,,,,
+26,Mexico City,Unhealthy For Sensitive Groups,27.3,34.7,58.3,26.2,4.4,732.8
+27,Jerusalem,Moderate,22.3,103.3,2.0,7.8,,
+28,Johannesburg,Moderate,34.1,39.9,21.6,28.9,5.7,
+29,Salt Lake City,Moderate,23.8,,32.0,63.5,0.4,57.3
+30,Chiang Mai,Moderate,36.7,60.2,55.3,9.6,4.7,
+31,Shanghai,Moderate,35.2,64.1,35.0,44.5,12.9,791.7
+32,San Francisco,Moderate,20.8,,18.0,33.6,,
+33,Paris,Moderate,28.3,34.8,6.5,53.6,1.8,0.6
+34,Kaohsiung,Moderate,21.8,39.3,38.9,27.3,7.5,439.2
+35,Portland,Moderate,13.3,,2.8,3.7,2.7,17.1
+36,Tel Aviv-Yafo,Moderate,19.0,33.6,66.7,21.0,4.3,257.6
+37,Hangzhou,Moderate,23.8,61.3,40.5,29.2,7.8,590.0
+38,Seattle,Moderate,10.1,,,,,
+39,Wroclaw,Moderate,24.9,3.8,10.3,20.9,4.7,967.6
+40,Budapest,Moderate,20.7,23.8,9.1,27.0,4.8,516.7
+41,Krakow,Moderate,36.3,37.9,,18.1,4.8,
+42,Jakarta,Moderate,12.2,28.5,,,,
+43,London,Moderate,12.1,11.8,26.9,16.0,1.0,900.0
+44,Zagreb,Moderate,14.6,41.5,50.7,7.4,3.0,300.0
+45,Brussels,Moderate,15.5,18.8,2.0,41.7,1.0,0.0
+46,Shenyang,Moderate,47.0,67.5,21.1,39.8,26.3,1221.4
+47,Seoul,Moderate,16.7,27.0,33.7,49.7,12.0,629.8
+48,Vienna,Moderate,14.2,15.4,35.7,11.9,1.0,275.0
+49,Bern,Moderate,14.0,24.5,5.0,,,
+50,Bratislava,Moderate,15.6,17.3,23.2,22.8,4.0,
+51,Incheon,Moderate,18.9,28.8,34.8,39.2,12.9,639.3
+52,Moscow,Moderate,14.0,16.1,5.5,27.6,2.1,276.7
+53,Rotterdam,Moderate,17.9,16.5,,63.7,,
+54,Lyon,Moderate,12.8,15.7,38.9,12.8,,
+55,Phnom Penh,Moderate,15.0,,,,,
+56,Taipei,Moderate,13.1,28.3,51.0,22.4,3.8,358.8
+57,Denver,Moderate,10.2,26.0,46.2,57.5,1.1,278.1
+58,Shenzhen,Moderate,10.6,32.0,44.4,22.2,8.0,558.3
+59,Dubai,Moderate,11.6,,,,,
+60,Sao Paulo,Good,11.5,16.7,43.7,15.0,2.0,381.7
+61,Beijing,Good,12.8,51.1,43.4,22.8,3.1,333.3
+62,Hong Kong,Good,11.0,29.4,37.2,36.2,5.1,530.7
+63,Munich,Good,11.0,13.5,36.0,19.5,,0.0
+64,Prague,Good,11.3,18.2,8.7,22.7,,659.6
+65,Guangzhou,Good,10.3,25.8,55.1,19.5,8.5,466.7
+66,Lima,Good,9.3,11.9,,,,
+67,Busan,Good,10.2,18.1,,16.9,7.9,343.5
+68,Oslo,Good,6.9,9.8,,14.6,,0.0
+69,Bogota,Good,7.5,16.5,11.6,,,
+70,Amsterdam,Good,8.9,12.2,10.2,47.4,0.5,446.3
+71,Bangkok,Good,8.7,39.5,48.0,4.4,,838.7
+72,Singapore,Good,8.0,26.4,6.1,12.1,3.0,0.0
+73,Vancouver BC,Good,6.2,5.5,22.3,29.4,0.7,262.8
+74,Kobe,Good,7.6,9.0,,25.6,,
+75,Kuala Lumpur,Good,6.7,,,,,
+76,Madrid,Good,2.3,3.1,63.0,5.3,1.3,0.0
+77,Helsinki,Good,5.5,4.8,39.3,7.9,0.0,
+78,Santiago,Good,7.8,46.3,28.0,18.2,1.7,377.9
+79,Detroit,Good,4.7,,,13.9,1.0,687.0
+80,Kuching,Good,5.4,,,,,
+81,Nagoya,Good,7.0,6.9,,26.9,,
+82,Osaka,Good,8.0,4.3,,25.1,,
+83,Kyoto,Good,5.7,8.2,,14.7,,412.2
+84,Berlin,Good,6.8,12.9,8.4,13.1,,0.0
+85,Toronto,Good,4.5,,36.0,15.0,0.7,
+86,Melbourne,Good,5.4,17.9,28.8,3.8,3.4,0.0
+87,Pristina,Good,4.9,,,,,
+88,Canberra,Good,1.5,3.9,32.7,3.0,,3.4
+89,Sofia,Good,2.9,2.8,48.1,5.7,4.2,0.0
+90,New York City,Good,6.6,,41.0,,3.5,242.8
+91,Tokyo,Good,6.1,6.4,,44.2,2.6,381.7
+92,Los Angeles,Good,17.1,41.2,3.0,31.8,2.4,
+93,Sydney,Good,0.0,7.2,31.5,1.1,0.0,2.3
+94,Skopje,Good,6.8,4.9,20.3,11.5,0.0,
+95,Tashkent,Good,47.8,,4.0,,,
+96,"Dhaka, Dhaka",Very Unhealthy,182.1,,,,,
+97,"Manikganj, Dhaka",Very Unhealthy,171.0,,,,,
+98,"Savar, Dhaka",Unhealthy,119.1,,,,,
+99,"Sreepur, Dhaka",Unhealthy,81.6,,,,,
+100,"Narayanganj, Dhaka",Good,8.0,,,,,
+101,"Rawalpindi, Punjab",Hazardous,276.3,,,,,
+102,"Faisalabad, Punjab",Very Unhealthy,214.2,,,,,
+103,"Islamabad, Islamabad",Unhealthy,132.8,,,,,
+104,"Bahawalpur, Punjab",Very Unhealthy,154.6,,,,,
+105,"Lahore, Punjab",Unhealthy,100.1,,,,,
+106,"Sahiwal, Punjab",Unhealthy,126.5,,,,,
+107,"Muridke, Punjab",Unhealthy,67.1,,,,,
+108,"Abbottabad, Khyber Pakhtunkhwa",Unhealthy For Sensitive Groups,48.2,,,,,
+109,"Multan, Punjab",Unhealthy,62.6,,,,,
+110,"Peshawar, Khyber Pakhtunkhwa",Unhealthy For Sensitive Groups,55.0,,,,,
+111,"Tsetserleg, Arhangay",Unhealthy For Sensitive Groups,48.9,,,,,
+112,"Darhan, Darhan Uul",Unhealthy,60.1,,,,,
+113,"Ulaanbaatar, Ulaanbaatar",Unhealthy,64.3,307.0,13.0,26.0,57.0,9.0
+114,"Urt, OEmnoegovi",Moderate,28.0,38.0,,11.0,7.0,
+115,"Ulaan-Uul, East Gobi Aymag",Moderate,13.0,18.0,,10.0,,
+116,"Sumber, East Aimak",Good,12.0,5.0,,4.0,6.5,
+117,"Chonogol, Suhbaatar",Good,4.0,6.0,,5.0,,8.0
+118,"Hongor, Suhbaatar",Good,1.0,19.0,,6.0,10.0,
+119,"Ulan Bator, Ulaanbaatar",,,,,,,
+120,"Kabul, Kabul",Hazardous,287.0,,,,,
+121,"Pitampura, Delhi",Hazardous,328.0,504.0,8.5,55.0,16.4,2920.0
+122,"Loni, Uttar Pradesh",Hazardous,310.0,446.6,28.0,42.5,20.0,
+123,"Guwahati, Assam",Hazardous,252.0,,,,,
+124,"Dadri, Uttar Pradesh",Very Unhealthy,238.3,389.3,1.0,136.0,4.0,
+125,"Greater Noida, Uttar Pradesh",Very Unhealthy,227.9,348.0,3.0,,11.2,
+126,"Baraut, Uttar Pradesh",Very Unhealthy,217.0,364.3,38.0,,,
+127,"Delhi, Delhi",Unhealthy,88.0,140.9,6.8,50.2,43.0,2400.0
+128,"Noida, Uttar Pradesh",Very Unhealthy,207.0,350.4,8.0,61.3,9.2,2900.0
+129,"Patna, Bihar",Very Unhealthy,196.6,,54.1,108.0,21.6,2900.0
+130,"Uran, Maharashtra",Very Unhealthy,187.5,280.0,12.0,,8.8,
+131,"Medan, North Sumatra",Unhealthy For Sensitive Groups,55.4,,,,,
+132,"Jakarta, Jakarta",Unhealthy,68.4,,,,,
+133,"Bandung, West Java",Unhealthy For Sensitive Groups,40.1,,,,,
+134,"Semarang, Central Java",Unhealthy For Sensitive Groups,38.8,,,,,
+135,"Palembang, South Sumatra",Moderate,25.7,,,,,
+136,"Jimbaran, Bali",Moderate,18.1,,,,,
+137,"Bogor, West Java",Moderate,17.8,11.0,,,,
+138,"Yogyakarta, Yogyakarta",Moderate,20.0,,,,,
+139,"Dumai, Riau",Moderate,14.4,,,,,
+140,"Denpasar, Bali",Moderate,12.8,,,,,
+141,"Manama, Capital Governorate",Moderate,0.0,,,,,
+142,"Kathmandu, Central Region",Very Unhealthy,180.0,193.5,0.0,,,
+143,"Siddharthanagar, Western Region",Very Unhealthy,161.1,,,,,
+144,"Bharatpur, Central Region",Unhealthy,122.1,43.9,,,,
+145,"Nepalgunj, Mid Western",Unhealthy,106.7,67.2,,,,
+146,"Dhankuta, Eastern Region",Unhealthy,87.4,89.5,,,,
+147,"Patan, Central Region",Unhealthy,84.6,108.1,,,,
+148,"Pokhara, Western Region",Unhealthy For Sensitive Groups,53.3,,,,,
+149,"Kirtipur, Central Region",Unhealthy For Sensitive Groups,52.0,123.2,,,,
+150,"Tulsipur, Mid Western",Unhealthy For Sensitive Groups,41.7,59.1,,,,
+151,"Bhaktapur, Central Region",Unhealthy For Sensitive Groups,39.2,56.1,,,,
+152,"Tashkent, Toshkent Shahri",Unhealthy,66.0,,4.0,,,
+153,"Baghdad, Baghdad",Unhealthy For Sensitive Groups,53.4,,,,,
+154,"Nassau, New Providence",Good,4.4,,,,,
+155,"Governor's Harbour, Central Eleuthera",Good,3.7,,,,,
+156,"Charlotte Amalie, Saint Thomas Island",Good,0.6,,,,,
+157,"Cruz Bay, Saint John Island",Good,0.0,,,,,
+158,"Isafjoerdur, Westfjords",Good,0.0,,,,,
+159,"Lohja, Uusimaa",Good,9.8,,,,,
+160,"Nurmijaervi, Uusimaa",Good,9.2,,,,,
+161,"Imatra, South Karelia",Good,9.0,6.7,,2.5,1.0,
+162,"Siuntio, Uusimaa",Good,7.9,,,,,
+163,"Raisio, Finland Proper",Good,7.3,7.8,,11.4,0.0,
+164,"Tampere, Pirkanmaa",Good,6.7,7.2,,18.7,,
+165,"Joensuu, North Karelia",Good,6.8,9.7,,25.6,,
+166,"Lansi-Turunmaa, Finland Proper",Good,6.1,11.1,,4.9,1.1,
+167,"Pertteli, Finland Proper",Good,6.7,,,,,
+168,"Vantaa, Uusimaa",Good,6.3,5.4,,4.1,,
+169,"Tallinn, Harjumaa",Good,9.0,12.3,13.7,30.1,2.7,340.0
+170,"Tartu, Tartumaa",Good,8.5,12.9,,24.2,0.0,350.0
+171,"Sinimaee, Ida-Virumaa",Good,4.0,6.0,,,0.0,
+172,"Voore, Jogevamaa",Good,4.0,,,2.2,0.7,
+173,"Sillamaee, Ida-Virumaa",Good,3.6,4.0,,,,
+174,"Kohtla-Jaerve, Ida-Virumaa",Good,3.5,4.3,,5.0,0.8,
+175,"Narva, Ida-Virumaa",Good,2.8,6.1,,16.0,0.3,
+176,"Parnu Jogi, Paernumaa",,,,,,,
+177,"Enkoeping, Uppsala län",Moderate,12.3,,,,,
+178,"Linköping, Östergötlands län",Good,10.5,,,,,
+179,"Solna, Stockholm",Good,9.3,,,,,
+180,"Kungsbacka, Hallands län",Good,8.7,,,,,
+181,"Lilla Essingen, Stockholm",Good,8.3,,,,,
+182,"Malmö, Skåne län",Good,8.0,3.5,9.6,24.8,,
+183,"Norrköping, Östergötlands län",Good,7.0,8.5,,,,
+184,"Bredkalen, Jaemtland",Good,6.3,6.4,,,,
+185,"Uppsala, Uppsala län",Good,6.0,8.8,,14.0,,
+186,"Saro, Hallands län",Good,5.3,,,,,
+187,"Stavanger, Rogaland",Unhealthy For Sensitive Groups,42.4,52.0,,86.0,,
+188,"Alesund, More og Romsdal",Moderate,17.0,23.4,,3.9,,
+189,"Trondheim, Sor-Trondelag",Unhealthy For Sensitive Groups,36.2,43.6,,83.1,,
+190,"Oslo, Oslo",Good,10.6,24.7,,51.6,,0.0
+191,"Lillestrom, Akershus",Good,9.9,6.6,,22.9,,
+192,"Mo i Rana, Nordland",Moderate,20.6,31.6,,,,
+193,"Narvik, Nordland",Moderate,31.4,52.7,,,,
+194,"Ski, Akershus",Good,10.1,,,,,
+195,"Sandsli, Hordaland",Moderate,17.5,20.7,,44.2,,
+196,"Bodo, Nordland",Good,6.7,42.4,,,,
+197,"Rangiora, Canterbury",Good,10.2,20.7,,,,
+198,"Kaiapoi, Canterbury",Moderate,13.2,23.9,,,,
+199,"Ruakaka, Northland",Good,,7.5,,,,
+200,"Ashburton, Canterbury",Good,7.9,22.5,,,,
+201,"Geraldine, Canterbury",Good,7.3,21.4,,,,
+202,"Waimate, Canterbury",Good,7.0,20.4,,,,
+203,"Awatoto, Hawke's Bay",Good,6.6,21.1,,,,
+204,"Blenheim, Marlborough",Good,6.5,4.9,,,,
+205,"Timaru, Canterbury",Good,6.6,29.8,,,3.9,500.0
+206,"Gisborne, Gisborne",Good,6.3,24.5,,,,
+207,"Regina, Saskatchewan",Unhealthy For Sensitive Groups,42.1,,8.0,58.3,,
+208,"St. Albert, Alberta",Moderate,35.2,,2.0,82.7,2.6,
+209,"Winnipeg, Manitoba",Moderate,35.3,,5.4,13.5,,
+210,"Edmonton, Alberta",Moderate,32.4,,2.0,77.1,2.6,
+211,"Brandon, Manitoba",Moderate,34.9,,,17.7,,
+212,"Sherwood Park, Alberta",Moderate,19.1,,32.0,42.3,2.6,
+213,"Stettler, Alberta",Moderate,27.7,,,,,
+214,"Watrous, Saskatchewan",Moderate,18.8,,,,,
+215,"Houston, British Columbia",Moderate,32.9,3.8,,,,
+216,"Rideau Park, Alberta",Moderate,30.0,,2.0,67.7,2.6,
+217,"Kembla Grange, New South Wales",Unhealthy For Sensitive Groups,42.1,51.6,,1.9,,
+218,"Muswellbrook, New South Wales",Moderate,30.8,21.5,,11.3,2.6,
+219,"Manilla, New South Wales",Moderate,26.3,24.2,,,,
+220,"Tamworth, New South Wales",Moderate,23.7,2.1,,,,
+221,"Shellharbour, New South Wales",Moderate,21.5,4.1,,1.9,,
+222,"Swan, Western Australia",Moderate,13.5,46.2,,67.7,,
+223,"Busselton, Western Australia",Moderate,6.1,57.0,,,,
+224,"Albany, Western Australia",Good,,55.0,,,,
+225,"Geraldton, Western Australia",Good,7.0,46.2,,,,
+226,"Beresfield, New South Wales",Good,2.4,37.9,,3.8,7.9,
+227,"Ube, Yamaguchi",Moderate,30.0,8.0,,9.4,7.9,
+228,"Hiraidemachi, Tochigi",Moderate,23.0,8.0,,39.5,,
+229,"Minato, Wakayama",Moderate,20.0,24.0,,,23.6,
+230,"Mizusawaku Higashiodori, Iwate",Moderate,19.0,4.0,,26.3,2.6,
+231,"Futago, Kanagawa",Moderate,15.0,11.0,,73.3,,
+232,"Tamana, Kumamoto",Moderate,18.0,8.0,,7.5,,
+233,"Hanazakicho, Chiba",Moderate,17.0,,,,,
+234,"Yumeimachi, Fukuoka",Moderate,16.0,7.0,,9.4,2.6,229.0
+235,"Higashikoshigaya, Saitama",Moderate,15.0,15.0,,45.1,2.6,
+236,"Honmokucho, Kanagawa",Good,7.0,7.0,,41.4,5.2,
+237,"Shihezi, Xinjiang",Very Unhealthy,235.0,264.0,6.0,85.5,12.5,2300.0
+238,"Ili, Xinjiang",Very Unhealthy,177.0,182.0,39.0,52.0,36.0,2600.0
+239,"Changji, Xinjiang",Very Unhealthy,152.0,183.0,,84.0,5.0,
+240,"Turpan, Xinjiang",Unhealthy,145.5,192.5,28.5,62.0,29.0,2100.0
+241,"Fushun, Liaoning",Unhealthy,103.0,142.0,10.0,42.0,20.0,1500.0
+242,"Jinzhou, Liaoning",Unhealthy,94.0,85.0,20.0,54.0,65.0,2100.0
+243,"Yuxia, Shaanxi",Unhealthy,84.0,82.0,17.0,37.0,12.0,1241.5
+244,"Linxia Chengguanzhen, Gansu",Unhealthy,83.0,99.0,,13.0,,
+245,"Urumqi, Xinjiang",Unhealthy,83.0,94.0,14.0,100.0,6.0,2200.0
+246,"Karamay, Xinjiang",Unhealthy,81.0,86.0,40.5,29.0,3.5,1100.0
+247,"Regina, Saskatchewan",Unhealthy For Sensitive Groups,42.1,,8.0,58.3,,
+248,"Winnipeg, Manitoba",Moderate,35.3,,5.4,13.5,,
+249,"Brandon, Manitoba",Moderate,34.9,,,17.7,,
+250,"St. Albert, Alberta",Moderate,35.2,,2.0,82.7,2.6,
+251,"Houston, British Columbia",Moderate,32.9,3.8,,,,
+252,"Edmonton, Alberta",Moderate,32.4,,2.0,77.1,2.6,
+253,"Rideau Park, Alberta",Moderate,30.0,,2.0,67.7,2.6,
+254,"Dawson City, Yukon",Moderate,30.0,,,,,
+255,"Prince Albert, Saskatchewan",Moderate,28.9,,36.0,,,
+256,"Stettler, Alberta",Moderate,27.7,,,,,
+257,"Ha Tinh, Tinh Ha Tinh",Unhealthy For Sensitive Groups,46.9,,,,,
+258,"Pho Moi, Tinh Bac Ninh",Moderate,33.6,55.6,15.4,28.9,101.9,0.0
+259,"Hanoi, Hanoi",Moderate,33.2,53.2,0.6,26.0,2.1,993.6
+260,"Cau Dien, Hanoi",Moderate,29.7,54.5,0.0,39.1,1.6,299.9
+261,"Ho Chi Minh City, Ho Chi Minh City",Moderate,28.7,,,,,
+262,"Long Xuyen, An Giang",Moderate,27.8,,,,,
+263,"Phuc Yen, Tinh Vinh Phuc",Moderate,25.7,51.3,,,,
+264,"Nhu Quynh, Tinh Hung Yen",Moderate,23.8,51.3,0.0,15.4,7.0,0.9
+265,"Thanh Pho Thai Nguyen, Tinh Thai Nguyen",Moderate,24.2,32.0,,,1.1,0.9
+266,"Hoan Kiem, Hanoi",Moderate,22.5,22.7,33.1,21.1,14.7,0.0
+267,"Tadley, England",Unhealthy For Sensitive Groups,51.7,,,,,
+268,"Highland, Scotland",Unhealthy For Sensitive Groups,43.6,,,,,
+269,"Cowley, England",Unhealthy For Sensitive Groups,42.9,,,,,
+270,"Girton, England",Unhealthy For Sensitive Groups,41.5,15.8,,33.3,,
+271,"Stockton, England",Unhealthy For Sensitive Groups,41.8,,,,,
+272,"Cambridge, England",Unhealthy For Sensitive Groups,40.3,21.7,,33.2,,
+273,"Colchester, England",Unhealthy For Sensitive Groups,40.0,,,,,
+274,"Brentford, England",Unhealthy For Sensitive Groups,37.0,43.0,,63.7,,
+275,"Crondall, England",Unhealthy For Sensitive Groups,37.1,,,,,
+276,"Teddington, England",Moderate,30.9,36.6,,,,
+277,"Quimper, Brittany",Unhealthy For Sensitive Groups,51.0,53.3,,,,
+278,"Dax, Nouvelle-Aquitaine",Moderate,34.0,37.0,28.0,18.0,,
+279,"Biars-sur-Cere, Occitanie",Moderate,33.0,46.3,32.0,21.9,,
+280,"Albi, Occitanie",Moderate,25.0,38.5,,24.3,,
+281,"Tours, Centre",Moderate,26.3,24.1,,42.2,,
+282,"Toulouse, Occitanie",Moderate,28.3,38.1,22.6,29.2,,
+283,"Saint-Jean-de-Braye, Centre",Moderate,24.9,,,31.0,,
+284,"La Lechere, Auvergne-Rhone-Alpes",Moderate,27.0,35.3,,,,
+285,"Laval, Pays de la Loire",Moderate,24.0,30.0,13.0,21.0,,
+286,"Nantes, Pays de la Loire",Moderate,25.0,30.0,38.0,47.0,1.0,
+287,"Northeim, Lower Saxony",Moderate,27.6,,,,,
+288,"Hamburg, Hamburg",Moderate,25.9,,18.0,21.0,3.0,330.0
+289,"Eppelheim, Baden-Wuerttemberg",Moderate,22.6,,,,,
+290,"Bernau bei Berlin, Brandenburg",Moderate,22.0,29.0,,24.8,,
+291,"Meppen, Lower Saxony",Moderate,21.2,,,,,
+292,"Dresden, Saxony",Good,5.0,11.0,13.0,41.0,0.0,
+293,"Schongau, Bavaria",Moderate,19.6,,,,,
+294,"Konstanz, Baden-Wuerttemberg",Moderate,19.0,21.0,4.0,,,
+295,"Heppenheim (Bergstrasse), Hessen",Moderate,17.5,17.1,,,,
+296,"Friedrichshafen, Baden-Wuerttemberg",Moderate,17.0,19.0,30.0,,,
+297,"Saraburi, Sara Buri",Unhealthy,84.0,69.0,52.0,65.8,,
+298,"Tha Muang, Kanchanaburi",Unhealthy,72.1,,,,,
+299,"Doi Saket, Chiang Mai",Unhealthy For Sensitive Groups,53.3,,,,,
+300,"Ratchaburi, Ratchaburi",Moderate,30.0,70.0,40.0,,,
+301,"Hang Dong, Chiang Mai",Moderate,23.7,,,,,
+302,"Lampang, Lampang",Unhealthy For Sensitive Groups,44.5,19.0,84.0,,2.6,
+303,"San Sai, Chiang Mai",Unhealthy For Sensitive Groups,39.9,,,,,
+304,"Hua Hin, Prachuap Khiri Khan",Unhealthy For Sensitive Groups,39.7,,,,,
+305,"Pai, Mae Hong Son",Unhealthy For Sensitive Groups,39.6,,,,,
+306,"Ban Sang, Prachin Buri",Unhealthy For Sensitive Groups,38.6,,,,,
+307,"Kloten / Balsberg, Zurich",Unhealthy For Sensitive Groups,41.0,14.9,19.6,32.1,,
+308,"Bodio, Ticino",Unhealthy For Sensitive Groups,37.0,73.0,3.0,63.0,16.0,
+309,"Lumino, Ticino",Moderate,31.0,39.5,,34.1,,
+310,"Ecublens, Vaud",Moderate,30.9,,,,,
+311,"Visp, Valais",Moderate,25.0,31.0,24.0,39.0,,
+312,"Dubendorf, Zurich",Moderate,22.6,16.0,36.0,29.0,,
+313,"Unteriberg, Schwyz",Moderate,22.6,,,,,
+314,"Rhaezuens, Grisons",Moderate,20.0,23.5,25.4,,,
+315,"Lausanne, Vaud",Moderate,19.6,,,,,
+316,"Dietikon, Zurich",Moderate,18.7,,,,,
+317,"Meligalas, Peloponnese",Unhealthy,74.5,,,,,
+318,"Messini, Peloponnese",Unhealthy For Sensitive Groups,41.9,,,,,
+319,"Ovria, West Greece",Unhealthy For Sensitive Groups,41.6,,,,,
+320,"Ano Liosia, Attica",Moderate,31.2,,,,,
+321,"Metamorfosi, Attica",Moderate,30.2,,,,,
+322,"Athens, Attica",Moderate,29.2,,,,,
+323,"Dhafni, Attica",Moderate,29.4,,,,,
+324,"Melissia, Attica",Moderate,29.3,,,,,
+325,"Vrilissia, Attica",Moderate,29.5,,,,,
+326,"Nikaia, Attica",Moderate,28.8,,,,,
+327,"Sao Bernardo do Campo, Sao Paulo",Moderate,23.0,,63.0,,,
+328,"Sao Jose do Rio Preto, Sao Paulo",Good,12.0,9.0,67.0,3.0,,
+329,"Cubatao, Sao Paulo",Good,,45.0,,38.0,6.0,
+330,"Guarulhos, Sao Paulo",Good,10.0,19.5,41.0,14.0,1.0,572.5
+331,"Santa Gertrudes, Sao Paulo",Good,10.0,20.0,,,,
+332,"Sao Paulo, Sao Paulo",Good,10.0,17.0,56.0,14.0,2.0,286.3
+333,"Piracicaba, Sao Paulo",Good,9.0,12.0,2.0,6.0,,
+334,"Santos, Sao Paulo",Good,9.0,15.0,81.0,7.0,1.0,
+335,"Sao Jose dos Campos, Sao Paulo",Good,7.0,39.0,52.0,5.0,1.0,229.0
+336,"Campinas, Sao Paulo",Good,8.0,30.0,6.0,5.0,,
+337,"Berezovka, Krasnoyarsk Krai",Hazardous,770.0,,,470.0,20.0,480.0
+338,"Solnechnyy, Krasnoyarsk Krai",Hazardous,435.0,,,320.0,50.0,280.0
+339,"Krasnoyarsk, Krasnoyarsk Krai",Unhealthy,83.3,,,310.0,35.0,370.0
+340,"Serpukhov, Moscow Oblast",Moderate,26.7,,,,,
+341,"Balashikha, Moscow Oblast",Moderate,24.0,,,,,
+342,"Zyryanka, Chukot",Moderate,15.0,,,,,
+343,"Gelendzhik, Krasnodarskiy",Moderate,13.0,,,,,
+344,"Moscow, Moscow",Moderate,12.5,14.0,5.4,34.0,2.5,310.0
+345,"Tol'yatti, Samara",Good,10.0,,,,,
+346,"Kamensk-Shakhtinskiy, Rostov",Good,9.7,,,,,
+347,"Davao City, Davao",Moderate,31.0,62.5,,17.2,,
+348,"Tagum City, Davao",Moderate,20.9,,,,,
+349,"Bulacan, Central Luzon",Good,9.7,,,,,
+350,"Pasig, National Capital Region",Good,9.2,,,,,
+351,"Paranaque, National Capital Region",Good,8.9,,,,,
+352,"Puerto Princesa, Mimaropa",Moderate,13.0,19.0,,,,
+353,"Balanga, Central Luzon",Good,6.8,,,,,
+354,"Makati, National Capital Region",Good,5.9,,,,,
+355,"Pasig City, National Capital Region",Good,5.0,,,,,
+356,"Marikina, National Capital Region",Good,4.5,,,,,
+357,"Yangon, Yangon",Unhealthy For Sensitive Groups,41.8,,4.0,,,
+358,"Syriam, Yangon",Moderate,34.3,,,,,
+359,"Mandalay, Mandalay",Moderate,31.4,,,,,
+360,"Vientiane, Vientiane",Moderate,13.0,,,,,
+361,"Rice Lake, Wisconsin",Unhealthy,104.9,,,,,
+362,"Portola, California",Unhealthy,61.0,,,,,
+363,"La Mirada, California",Unhealthy For Sensitive Groups,55.2,,,,,
+364,"Jemez Pueblo, New Mexico",Unhealthy For Sensitive Groups,54.1,,,,,
+365,"North Pole, Alaska",Unhealthy For Sensitive Groups,51.9,,,,,
+366,"Nogales, Arizona",Unhealthy For Sensitive Groups,47.9,158.7,,,,
+367,"South Valley, New Mexico",Unhealthy For Sensitive Groups,46.1,,,,,
+368,"Baldwin Park, California",Unhealthy For Sensitive Groups,45.1,,,,,
+369,"Del Aire, California",Unhealthy For Sensitive Groups,44.1,,,,,
+370,"Stanislaus, California",Unhealthy For Sensitive Groups,43.9,,,,,
+371,"Plovdiv, Plovdiv",Unhealthy,69.0,70.1,8.8,,7.9,0.7
+372,"Vidin, Vidin",Moderate,35.0,44.8,,,,
+373,"Varna, Varna",Moderate,22.5,24.9,21.2,39.9,5.0,0.0
+374,"Sliven, Sliven",Moderate,20.0,30.4,,,,
+375,"Burgas, Burgas",Moderate,19.9,23.5,41.3,,13.9,0.0
+376,"Sofia, Sofia",Moderate,18.3,21.5,17.5,44.9,12.0,1.0
+377,"Lovech, Lovech",Moderate,18.0,23.3,,,,
+378,"Oriyakovica, Veliko Tarnovo",Moderate,16.0,19.9,17.0,,5.3,
+379,"Smolyan, Smolyan",Moderate,15.0,21.8,,,,
+380,"Nesebar, Burgas",Moderate,14.0,28.6,,16.1,2.7,
+381,"Petaling Jaya, Selangor",Unhealthy For Sensitive Groups,54.8,,,,,
+382,"Klang, Selangor",Unhealthy For Sensitive Groups,43.2,,,,,
+383,"Shah Alam, Selangor",Moderate,19.9,,,,,
+384,"Balok, Pahang",Moderate,15.0,29.7,,,,
+385,"Kuala Selangor, Selangor",Moderate,14.7,,,,,
+386,"Kuala Langat, Selangor",Moderate,14.1,,,,,
+387,"Balik Pulau, Penang",Moderate,13.4,,,,,
+388,"Pekan, Pahang",Good,11.3,,,,,
+389,"Putrajaya, Putrajaya",Good,11.0,,,,,
+390,"Kota Bharu, Kelantan",Good,10.6,,,,,
+391,"San Juan de Lurigancho, Lima",Moderate,28.3,,24.8,,10.5,1.0
+392,"Trujillo, La Libertad",Moderate,21.6,,,,,
+393,"Lima, Lima",Good,11.6,19.7,,,,
+394,"Cusco, Cusco",Good,8.7,,,,,
+395,"HUACHIPA, Lima",Good,,,,,51.5,253.0
+396,"El Tambo, Junin",Good,5.4,,,,,
+397,"Chupaca, Junin",Good,4.0,,,,,
+398,"Puerto Maldonado, Madre de Dios",Good,2.3,,,,,
+399,"Santa Anita, Lima",Good,,,,50.4,15.4,
+400,"Villa Maria del Triunfo, Lima",Good,,,,,12.9,1.0
+401,"Valjevo, Central Serbia",Unhealthy,91.9,92.6,,59.8,7.7,
+402,"Cacak, Central Serbia",Unhealthy,74.7,,,14.3,,
+403,"Uzice, Central Serbia",Unhealthy,63.1,63.2,,2.7,10.0,
+404,"Novi Pazar, Central serb",Unhealthy,55.7,56.6,27.5,46.8,23.2,
+405,"Nis, Central Serbia",Unhealthy For Sensitive Groups,48.1,16.3,37.9,34.8,9.7,
+406,"Pancevo, Central Serbia",Moderate,30.0,35.2,40.3,34.3,8.0,1170.0
+407,"Gornji Milanovac, Central serb",Moderate,29.5,,,,,
+408,"Kragujevac, Central Serbia",Moderate,27.2,,,61.8,,
+409,"Pancevo, Autonomna Pokrajina Vojvodina",Moderate,21.6,21.9,38.8,15.0,12.9,
+410,"Belgrade, Central Serbia",Moderate,20.0,16.5,29.0,32.2,9.2,530.0
+411,"Moldava nad Bodvou, Kosice",Unhealthy For Sensitive Groups,46.0,59.4,,,,
+412,"Nad Jazerom, Kosice",Unhealthy For Sensitive Groups,43.0,60.0,,,,
+413,"Martin, Zilina",Unhealthy For Sensitive Groups,41.0,54.0,,,,
+414,"Ruzomberok, Zilina",Unhealthy For Sensitive Groups,41.0,52.0,,,5.0,
+415,"Kosice, Kosice",Unhealthy For Sensitive Groups,40.5,53.0,2.0,,5.0,787.5
+416,"Handlova, Trencin",Unhealthy For Sensitive Groups,37.0,31.0,,,,
+417,"Prievidza, Trencin",Unhealthy For Sensitive Groups,37.0,26.0,4.0,,,
+418,"Banska Bystrica, Banska Bystrica",Unhealthy For Sensitive Groups,36.5,30.5,,34.5,,
+419,"Krompachy, Kosice",Moderate,28.0,30.0,,,,
+420,"Strazske, Kosice",Moderate,27.0,37.0,,,,
+421,"Sants, Catalunya",Unhealthy For Sensitive Groups,41.7,,,,,
+422,"Puebla de Alfinden, Aragon",Unhealthy For Sensitive Groups,39.5,,,,,
+423,"Ponferrada, Castille and Leon",Unhealthy For Sensitive Groups,39.0,56.0,21.0,34.0,17.0,
+424,"Leganés, Madrid",Moderate,34.0,36.0,16.0,54.0,,
+425,"Carracedelo, Castille and Leon",Moderate,28.0,46.0,27.0,18.0,4.0,
+426,"Sondika, Basque Country",Moderate,28.0,42.0,,28.0,,
+427,"Chert/Xert, Valencia",Moderate,24.3,,,,,
+428,"Puertollano, Castilla-La Mancha",Moderate,23.0,15.0,34.0,14.0,5.0,
+429,"Beasain, Basque Country",Moderate,22.0,,,,2.0,0.0
+430,"Ciutat Meridiana, Catalunya",Moderate,22.0,32.0,,,,
+431,"Arwad, Tartus",Moderate,28.7,46.3,,18.4,7.9,
+432,"Fiq, Quneitra",Moderate,28.8,,,,,
