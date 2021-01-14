@@ -1,0 +1,133 @@
+,City,Level,PM2.5,PM10,O3,NO2,SO2,CO
+0,"Sreepur, Dhaka",Hazardous,256.9,NULL,NULL,NULL,NULL,NULL
+1,"Manikganj, Dhaka",Very Unhealthy,200.7,NULL,NULL,NULL,NULL,NULL
+2,"Dhaka, Dhaka",Very Unhealthy,177.5,NULL,NULL,NULL,NULL,NULL
+3,"Savar, Dhaka",Unhealthy,120.5,NULL,NULL,NULL,NULL,NULL
+4,"Narayanganj, Dhaka",Good,7,NULL,NULL,NULL,NULL,NULL
+5,"Rawalpindi, Punjab",Very Unhealthy,168.4,NULL,NULL,NULL,NULL,NULL
+6,"Lahore, Punjab",Unhealthy,126,NULL,NULL,NULL,NULL,NULL
+7,"Muridke, Punjab",Unhealthy,107.3,NULL,NULL,NULL,NULL,NULL
+8,"Islamabad, Islamabad",Unhealthy,100,NULL,NULL,NULL,NULL,NULL
+9,"Karachi, Sindh",Unhealthy,100,NULL,NULL,NULL,NULL,NULL
+10,"Raiwind, Punjab",Unhealthy,91.4,NULL,NULL,NULL,NULL,NULL
+11,"Ulaanbaatar, Ulaanbaatar",Unhealthy,76.3,158,3,24,215,18
+12,"Hongor, Suhbaatar",Moderate,32,59,NULL,9,14,NULL
+13,"Tsetserleg, Arhangay",Moderate,31,NULL,NULL,NULL,NULL,NULL
+14,"Ulaan-Uul, East Gobi Aymag",Moderate,32,138,NULL,36,19,NULL
+15,"Urt, OEmnoegovi",Unhealthy For Sensitive Groups,32,214,NULL,7,5,NULL
+16,"Sumber, East Aimak",Good,8,15.5,NULL,5,6,NULL
+17,"Chonogol, Suhbaatar",Good,4,14,NULL,17,38,NULL
+18,"Ulan Bator, Ulaanbaatar",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+19,"Kabul, Kabul",Unhealthy For Sensitive Groups,51.5,NULL,NULL,NULL,NULL,NULL
+20,"Bahadurgarh, Haryana",Very Unhealthy,213.5,238,1,0.8,9.6,NULL
+21,"Delhi, Delhi",Hazardous,277,352.5,9.3,35.7,33.8,2550
+22,"Sector, Uttar Pradesh",Hazardous,283,409.3,36,29.6,1.6,2420
+23,"Dadri, Uttar Pradesh",Hazardous,254,447.8,1,125,1.6,NULL
+24,"Dharuhera, Haryana",Hazardous,209.6,445.4,3,86,2.4,2260
+25,"Guwahati, Assam",Very Unhealthy,200.5,NULL,NULL,NULL,NULL,NULL
+26,"Shahdara, Delhi",Hazardous,268.7,338,30.3,169.6,NULL,2301.5
+27,"Muzaffarpur, Bihar",Hazardous,266,NULL,12,2.4,7.2,NULL
+28,"Patna, Bihar",Very Unhealthy,242.2,NULL,57.1,101,20.8,2580
+29,"Bulandshahr, Uttar Pradesh",Hazardous,257,371,6,NULL,16.8,NULL
+30,"Bandung, West Java",Unhealthy,75.9,NULL,NULL,NULL,NULL,NULL
+31,"Jakarta, Jakarta",Unhealthy For Sensitive Groups,38.6,NULL,NULL,NULL,NULL,NULL
+32,"Pekanbaru, Riau",Moderate,30.3,NULL,NULL,NULL,NULL,NULL
+33,"Duri, Riau",Moderate,28.6,NULL,NULL,NULL,NULL,NULL
+34,"Sedinginan, Riau",Moderate,25.4,NULL,NULL,NULL,NULL,NULL
+35,"Semarang, Central Java",Moderate,23.8,NULL,NULL,NULL,NULL,NULL
+36,"Balaipungut, Riau",Moderate,21.5,NULL,NULL,NULL,NULL,NULL
+37,"Dumai, Riau",Moderate,21.5,NULL,NULL,NULL,NULL,NULL
+38,"Medan, North Sumatra",Moderate,20.3,NULL,NULL,NULL,NULL,NULL
+39,"Semarapura, Bali",Moderate,17.2,NULL,NULL,NULL,NULL,NULL
+40,"Manama, Capital Governorate",Unhealthy,81,NULL,NULL,NULL,NULL,NULL
+41,"Siddharthanagar, Western Region",Unhealthy,116.3,NULL,NULL,NULL,NULL,NULL
+42,"Nepalgunj, Mid Western",Unhealthy,104.5,69.5,NULL,NULL,NULL,NULL
+43,"Bhaktapur, Central Region",Unhealthy,102.4,NULL,NULL,NULL,NULL,NULL
+44,"Kathmandu, Central Region",Unhealthy,97.4,125.4,21,NULL,NULL,NULL
+45,"Kirtipur, Central Region",Unhealthy,94.4,59.1,NULL,NULL,NULL,NULL
+46,"Tulsipur, Mid Western",Unhealthy,64.2,NULL,NULL,NULL,NULL,NULL
+47,"Patan, Central Region",Unhealthy,62.2,63.7,NULL,NULL,NULL,NULL
+48,"Dhulikhel, Central Region",Unhealthy,56.7,57.2,NULL,NULL,NULL,NULL
+49,"Pokhara, Western Region",Unhealthy For Sensitive Groups,53.7,NULL,NULL,NULL,NULL,NULL
+50,"Dhankuta, Eastern Region",Moderate,34.7,34.7,NULL,NULL,NULL,NULL
+51,"Tashkent, Toshkent Shahri",Good,53,NULL,4,NULL,NULL,NULL
+52,"Baghdad, Baghdad",Moderate,25,NULL,NULL,NULL,NULL,NULL
+53,"Nassau, New Providence",Good,6.6,NULL,NULL,NULL,NULL,NULL
+54,"Governor's Harbour, Central Eleuthera",Good,3,NULL,NULL,NULL,NULL,NULL
+55,"Charlotte Amalie, Saint Thomas Island",Good,2.8,NULL,NULL,NULL,NULL,NULL
+56,"Cruz Bay, Saint John Island",Good,0.6,NULL,NULL,NULL,NULL,NULL
+57,"Hafnarfjoerdur, Capital Region",Good,8.1,15,NULL,3.6,3.6,NULL
+58,"Reykjavik, Capital Region",Good,7,11,NULL,3.3,6.9,NULL
+59,"Kopavogur, Capital Region",Good,6,9.9,NULL,0,0,NULL
+60,"Grundartangi, West",Good,3.5,5.5,NULL,0,0,NULL
+61,"Akureyri, Northeast",Good,2,1,NULL,28.6,NULL,NULL
+62,"Isafjoerdur, Westfjords",Good,0,NULL,NULL,NULL,NULL,NULL
+63,"Reydarfjoerdur, East",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+64,"Siuntio, Uusimaa",Moderate,14.7,NULL,NULL,NULL,NULL,NULL
+65,"Lansi-Turunmaa, Finland Proper",Moderate,13.4,21.4,NULL,5,1.6,NULL
+66,"Lohja, Uusimaa",Moderate,12.8,NULL,NULL,NULL,NULL,NULL
+67,"Pertteli, Finland Proper",Good,11.7,NULL,NULL,NULL,NULL,NULL
+68,"Espoo, Uusimaa",Good,10.3,7.9,NULL,5,0,NULL
+69,"Helsinki, Uusimaa",Good,8.4,7.5,40.2,0,0,NULL
+70,"Nurmijaervi, Uusimaa",Good,8.5,NULL,NULL,NULL,NULL,NULL
+71,"Vantaa, Uusimaa",Good,8.1,6.2,NULL,8.2,NULL,NULL
+72,"Hameenlinna, Tavastia Proper",Good,7,6.1,NULL,1.8,NULL,NULL
+73,"Seinajoki, Southern Ostrobothnia",Good,7,5.1,NULL,7,NULL,NULL
+74,"Sillamaee, Ida-Virumaa",Moderate,16,17,NULL,NULL,NULL,NULL
+75,"Sinimaee, Ida-Virumaa",Moderate,12.5,16.1,NULL,NULL,0.9,NULL
+76,"Tartu, Tartumaa",Good,11.2,13.8,NULL,12.6,0,300
+77,"Voore, Jogevamaa",Good,10.1,NULL,NULL,5.9,0,NULL
+78,"Narva, Ida-Virumaa",Good,8.7,12.1,NULL,9.2,0,NULL
+79,"Kohtla-Jaerve, Ida-Virumaa",Good,8.4,7.8,NULL,10.5,3.2,NULL
+80,"Tallinn, Harjumaa",Good,8,16.8,22,14.7,0,280
+81,"Parnu Jogi, Paernumaa",Good,NULL,NULL,NULL,10.4,0,NULL
+82,"Solna, Stockholm",Moderate,14.7,NULL,NULL,NULL,NULL,NULL
+83,"Lilla Essingen, Stockholm",Moderate,13.6,NULL,NULL,NULL,NULL,NULL
+84,"Enkoeping, Uppsala län",Good,9.3,NULL,NULL,NULL,NULL,NULL
+85,"Norr Malma, Stockholm",Good,9.2,9.2,NULL,7.2,NULL,NULL
+86,"Haggvik, Stockholm",Good,8.6,12.3,NULL,NULL,NULL,NULL
+87,"Sollentuna, Stockholm",Good,8.8,12,NULL,NULL,NULL,NULL
+88,"Sodertalje, Stockholm",Good,8,9.1,NULL,48.4,NULL,NULL
+89,"Stockholm, Stockholm",Good,8,9.9,NULL,11.3,NULL,NULL
+90,"Kungsholmen, Stockholm",Good,7.9,10.7,NULL,10,NULL,NULL
+91,"Lund, Skåne län",Good,7,8.2,34.9,4.9,NULL,NULL
+92,"Narvik, Nordland",Moderate,13.3,20.4,NULL,NULL,NULL,NULL
+93,"Stavanger, Rogaland",Good,11.6,11.9,NULL,30.5,NULL,NULL
+94,"Hamar, Hedmark",Good,8.4,9.3,NULL,5.8,NULL,NULL
+95,"Trondheim, Sor-Trondelag",Good,8.3,10.6,NULL,40.7,NULL,NULL
+96,"Mo i Rana, Nordland",Good,7.7,12.1,NULL,NULL,NULL,NULL
+97,"Drammen, Buskerud",Good,7.6,7.8,NULL,15.8,NULL,NULL
+98,"Harstad, Troms",Good,6.9,7.9,NULL,5.3,NULL,NULL
+99,"Sjolyststranda, Oslo",Good,6.3,6.7,7,11.4,0,NULL
+100,"Alesund, More og Romsdal",Good,5,5.7,NULL,21.6,NULL,NULL
+101,"Gjovik, Oppland",Good,4.5,4.9,NULL,11.8,NULL,NULL
+102,"Darfield, Canterbury",Moderate,12.4,NULL,NULL,NULL,NULL,NULL
+103,"Rangiora, Canterbury",Good,10.4,19.4,NULL,NULL,NULL,NULL
+104,"Awatoto, Hawke's Bay",Good,9.2,21.2,NULL,NULL,NULL,NULL
+105,"Hastings, Hawke's Bay",Good,9.1,10.9,NULL,NULL,NULL,NULL
+106,"Gisborne, Gisborne",Good,8.6,24.5,NULL,NULL,NULL,NULL
+107,"Winton, Southland",Good,8.6,NULL,NULL,NULL,NULL,NULL
+108,"Ashburton, Canterbury",Good,8,22,NULL,NULL,NULL,NULL
+109,"Christchurch, Canterbury",Good,7.2,18.6,NULL,NULL,NULL,NULL
+110,"Napier, Hawke's Bay",Good,7.3,19.4,NULL,NULL,NULL,NULL
+111,"Wainuiomata, Wellington",Good,6.9,13.5,NULL,NULL,NULL,NULL
+112,"Golden, British Columbia",Unhealthy For Sensitive Groups,46,30.7,NULL,NULL,NULL,NULL
+113,"Houston, British Columbia",Unhealthy For Sensitive Groups,43.9,0,NULL,NULL,NULL,NULL
+114,"Dawson City, Yukon",Unhealthy For Sensitive Groups,43.4,NULL,NULL,NULL,NULL,NULL
+115,"Barrie, Ontario",Moderate,31,NULL,24,21.4,NULL,NULL
+116,"Hamilton, Ontario",Moderate,31.1,27,31,22.9,0.8,NULL
+117,"Simcoe, Ontario",Moderate,29.8,NULL,NULL,NULL,NULL,NULL
+118,"Woodstock, Ontario",Moderate,28.5,NULL,NULL,NULL,NULL,NULL
+119,"Otterburn Park, Quebec",Moderate,26.3,NULL,NULL,NULL,NULL,NULL
+120,"Oshawa, Ontario",Moderate,24,NULL,20,29.1,NULL,NULL
+121,"Revelstoke, British Columbia",Moderate,24.2,NULL,NULL,NULL,NULL,NULL
+122,"Port Macquarie, New South Wales",Unhealthy For Sensitive Groups,53.8,2.6,2,3.8,NULL,NULL
+123,"Muswellbrook, New South Wales",Unhealthy For Sensitive Groups,36.8,25,NULL,1.9,2.6,NULL
+124,"Manilla, New South Wales",Moderate,33.6,51,NULL,NULL,NULL,NULL
+125,"Geraldton, Western Australia",Moderate,14,118.3,NULL,NULL,NULL,NULL
+126,"Goulburn, New South Wales",Moderate,23.1,15.5,74,1.9,NULL,NULL
+127,"Coffs Harbour, New South Wales",Moderate,18.5,45,NULL,1.9,NULL,4.5
+128,"Orange, New South Wales",Moderate,18.5,65.8,NULL,NULL,NULL,NULL
+129,"Collie, Western Australia",Moderate,NULL,79.5,NULL,NULL,NULL,NULL
+130,"Moruya, New South Wales",Moderate,17.5,NULL,NULL,NULL,NULL,NULL
+131,"Wallsend, New South Wales",Moderate,84.9,69.2,18,9.4,15.7,NULL
