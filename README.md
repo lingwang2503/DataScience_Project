@@ -30,8 +30,9 @@ Cách tính AQI khá phức tạp và có sự khác nhau ở nhiều quốc gia
 | 301 - 500      | **Hazardous** : Nguy hiểm     |
 
 # Các file 
-* Data_collection.ipynb: file thu thập dữ liệu
-* data.csv: file dữ liệu
+* Data_collection.ipynb ; collect_datas_indexes.ipynb : files thu thập dữ liệu
+* Merge_data_files.ipynb : file merge các dữ liệu con đã thu thập
+* total_data.csv: file dữ liệu sau khi merge (dùng để huấn luyện)
 * Preprocess_And_Train_Model.ipynb: file tiền xử lý và huấn luyện mô hình 
 * Slides.pdf: file báo cáo
 * Teamwork.pdf: file làm việc nhóm
