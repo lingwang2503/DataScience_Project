@@ -1,10 +1,10 @@
 # DataScience_Project
 Nhóm 10
 
-| MSSV | Họ tên |
-| ------------- |:-------------:|
-| 18120195      | Vương Thị Ngọc Linh     |
-| 18120219      | Đặng Đỗ Huỳnh Như     |
+| MSSV | Họ tên | Link github |
+| ------------- |:-------------:|:-------------:|
+| 18120195      | Vương Thị Ngọc Linh     | https://github.com/lingwang2503/     |
+| 18120219      | Đặng Đỗ Huỳnh Như     | https://github.com/dangdohuynhnhu2000     |
 
 # Link Trello làm việc nhóm:
 https://trello.com/b/laU1zZrR/final-project
